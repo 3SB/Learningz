@@ -10,6 +10,7 @@ A place to store all our learnings
 ## Python
 
 * [Getting starting with flask-login](https://gist.github.com/shrayas/10004888)
+* [Top 10 built in Python modules](http://www.reddit.com/r/Python/comments/28yo37/what_are_the_top_10_builtin_python_modules_that_a/)
 
 ## Shell
 
