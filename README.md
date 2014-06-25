@@ -3,6 +3,11 @@ Learningz
 
 A place to store all our learnings
 
+## Ubuntu
+
+* [Installing a new java version](http://openjdk.java.net/install/)
+* [Switching java version](https://www.digitalocean.com/community/tutorials/how-to-install-java-on-ubuntu-with-apt-get)
+
 ## Design Patterns
 
 * [Design patterns - Elements of reusable OO Software](http://www.uml.org.cn/c++/pdf/DesignPatterns.pdf)
