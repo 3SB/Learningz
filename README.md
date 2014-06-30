@@ -12,6 +12,10 @@ A place to store all our learnings
 
 * [Design patterns - Elements of reusable OO Software](http://www.uml.org.cn/c++/pdf/DesignPatterns.pdf)
  
+## Data Structures
+
+* [Data Structures and algos in Kernel](http://cstheory.stackexchange.com/questions/19759/core-algorithms-deployed/19773#19773)
+ 
 ## Python
 
 * [Getting starting with flask-login](https://gist.github.com/shrayas/10004888)
