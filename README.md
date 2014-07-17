@@ -51,3 +51,7 @@ A place to store all our learnings
 ## Life tips
 
 * [Folding clothes](https://www.youtube.com/watch?feature=player_embedded&v=Ark90G_aWLM)
+
+## How Bootstrap 3 works
+
+* [Nice visual & logical explanation](http://www.helloerik.com/the-subtle-magic-behind-why-the-bootstrap-3-grid-works)
