@@ -48,6 +48,10 @@ A place to store all our learnings
 * [Usage of buffers](http://www.reddit.com/r/vim/comments/1ujrvg/proper_usage_of_buffers/)
 * [Why learn vim?](http://www.reddit.com/r/vim/comments/1u8tbi/advice_for_those_resolving_to_learn_vim/)
 
+## Postgres related
+
+* [Using Dict cursors in psycopg2](http://initd.org/psycopg/docs/extras.html#dictionary-like-cursor)
+
 ## Life tips
 
 * [Folding clothes](https://www.youtube.com/watch?feature=player_embedded&v=Ark90G_aWLM)
