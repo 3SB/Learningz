@@ -20,6 +20,15 @@ A place to store all our learnings
 
 * [Getting starting with flask-login](https://gist.github.com/shrayas/10004888)
 * [Top 10 built in Python modules](http://www.reddit.com/r/Python/comments/28yo37/what_are_the_top_10_builtin_python_modules_that_a/)
+* [Correct way to do "variables"](http://stackoverflow.com/questions/9056957/correct-way-to-define-class-variables-in-python)
+* [Variables inside and outside `__init__`](http://stackoverflow.com/questions/1537202/variables-inside-and-outside-of-a-class-init-function)
+
+### Reflection
+
+* [Getting a class' superclass'](http://stackoverflow.com/questions/1401661/python-list-all-base-classes-in-a-hierarchy)
+* [Get methods of a class which are decorated](http://stackoverflow.com/questions/5910703/howto-get-all-methods-of-a-python-class-with-given-decorator)
+* [Finding decorated fxns in a module](http://stackoverflow.com/questions/2144109/find-all-decorated-functions-in-a-module)
+* [Get methods inside a class](http://stackoverflow.com/questions/1911281/how-do-i-get-list-of-methods-in-a-python-class)
 
 ## Shell
 
