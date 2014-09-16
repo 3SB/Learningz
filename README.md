@@ -30,6 +30,12 @@ A place to store all our learnings
 * [Finding decorated fxns in a module](http://stackoverflow.com/questions/2144109/find-all-decorated-functions-in-a-module)
 * [Get methods inside a class](http://stackoverflow.com/questions/1911281/how-do-i-get-list-of-methods-in-a-python-class)
 
+
+## Javascript
+
+* [Prototypal inheritence](http://howtonode.org/prototypical-inheritance)
+
+
 ## Shell
 
 * [Practical GREP uses](http://www.thegeekstuff.com/2009/03/15-practical-unix-grep-command-examples/)
