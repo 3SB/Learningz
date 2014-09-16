@@ -74,3 +74,8 @@ A place to store all our learnings
 ## How Bootstrap 3 works
 
 * [Nice visual & logical explanation](http://www.helloerik.com/the-subtle-magic-behind-why-the-bootstrap-3-grid-works)
+
+
+## Ansible
+
+* [Starter guide, kind of zero to hero guide](https://serversforhackers.com/editions/2014/08/26/getting-started-with-ansible/)
