@@ -33,7 +33,7 @@ A place to store all our learnings
 
 ## Javascript
 
-* [Prototypal inheritence](http://howtonode.org/prototypical-inheritance)
+* [Prototypal inheritence](http://oli.me.uk/2013/06/01/prototypical-inheritance-done-right/)
 
 
 ## Shell
