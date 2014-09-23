@@ -79,3 +79,10 @@ A place to store all our learnings
 ## Ansible
 
 * [Starter guide, kind of zero to hero guide](https://serversforhackers.com/editions/2014/08/26/getting-started-with-ansible/)
+
+
+## Linux
+
+* [Why systemd](http://blog.jorgenschaefer.de/2014/07/why-systemd.html)
+* [daemon](http://www.freedesktop.org/software/systemd/man/daemon.html)
+* 
