@@ -43,6 +43,9 @@ A place to store all our learnings
 * [Bash pitfalls](http://mywiki.wooledge.org/BashPitfalls)
 * [Bash guide](http://mywiki.wooledge.org/BashGuide)
 
+## Git Bash
+* [Autocomplete stops working when we do `set -o vi`](http://stackoverflow.com/questions/2252183/tab-autocompletion-in-bash-vi-shell-mode)
+
 ## Networking concepts
 
 * [DNS Resolution](http://blog.taos.com/2013/11/19/dns-resolution-a-primer/)
