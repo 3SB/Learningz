@@ -42,6 +42,8 @@ A place to store all our learnings
 * [Shell Redirection](http://wiki.bash-hackers.org/howto/redirection_tutorial)
 * [Bash pitfalls](http://mywiki.wooledge.org/BashPitfalls)
 * [Bash guide](http://mywiki.wooledge.org/BashGuide)
+* [cut](http://www.folkstalk.com/2012/02/cut-command-in-unix-linux-examples.html)
+* [tr](http://www.thegeekstuff.com/2012/12/linux-tr-command/)
 
 ## Git Bash
 * [Autocomplete stops working when we do `set -o vi`](http://stackoverflow.com/questions/2252183/tab-autocompletion-in-bash-vi-shell-mode)
