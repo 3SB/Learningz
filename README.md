@@ -94,6 +94,7 @@ A place to store all our learnings
 ## Clojure
 
 * [Getting started](http://java.ociweb.com/mark/clojure/article.html)
+* [Hello world with clojure](http://ben.vandgrift.com/2013/03/13/clojure-hello-world.html)
 
 ## Scala
 
