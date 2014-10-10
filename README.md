@@ -90,4 +90,11 @@ A place to store all our learnings
 
 * [Why systemd](http://blog.jorgenschaefer.de/2014/07/why-systemd.html)
 * [daemon](http://www.freedesktop.org/software/systemd/man/daemon.html)
-* 
+
+## Clojure
+
+* [Getting started](http://java.ociweb.com/mark/clojure/article.html)
+
+## Scala
+
+* [Why Scala](https://www.youtube.com/watch?v=LH75sJAR0hc)
