@@ -30,6 +30,9 @@ A place to store all our learnings
 * [Finding decorated fxns in a module](http://stackoverflow.com/questions/2144109/find-all-decorated-functions-in-a-module)
 * [Get methods inside a class](http://stackoverflow.com/questions/1911281/how-do-i-get-list-of-methods-in-a-python-class)
 
+### Python and Windows
+* [Making PyWin32 work with virtualenvs](http://www.activestate.com/blog/2010/12/tips-activepython-pywin32-and-virtualenv)
+
 
 ## Javascript
 
