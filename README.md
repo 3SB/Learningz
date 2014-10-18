@@ -22,6 +22,7 @@ A place to store all our learnings
 * [Top 10 built in Python modules](http://www.reddit.com/r/Python/comments/28yo37/what_are_the_top_10_builtin_python_modules_that_a/)
 * [Correct way to do "variables"](http://stackoverflow.com/questions/9056957/correct-way-to-define-class-variables-in-python)
 * [Variables inside and outside `__init__`](http://stackoverflow.com/questions/1537202/variables-inside-and-outside-of-a-class-init-function)
+* [TDD with django (a good book on TDD itself, from reviews)](http://chimera.labs.oreilly.com/books/1234000000754/index.html)
 
 ### Reflection
 
