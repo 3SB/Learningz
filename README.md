@@ -57,7 +57,11 @@ A place to store all our learnings
 * [cut](http://www.folkstalk.com/2012/02/cut-command-in-unix-linux-examples.html)
 * [tr](http://www.thegeekstuff.com/2012/12/linux-tr-command/)
 
-## Git Bash
+## Git
+
+* [Reverting part of commit](http://stackoverflow.com/questions/4795600/reverting-part-of-a-commit-with-git)
+
+### Git Bash
 * [Autocomplete stops working when we do `set -o vi`](http://stackoverflow.com/questions/2252183/tab-autocompletion-in-bash-vi-shell-mode)
 
 ## Networking concepts
