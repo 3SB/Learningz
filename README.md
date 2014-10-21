@@ -3,6 +3,10 @@ Learningz
 
 A place to store all our learnings
 
+## English
+
+* [Punctuation tips](https://medium.com/@wwnorton/punctuation-tips-a5e0d4a5e990)
+
 ## Algorithms
 
 * [Bloom Filters](http://maciejczyzewski.me/2014/10/18/bloom-filters-fast-and-simple.html)
