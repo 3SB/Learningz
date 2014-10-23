@@ -116,3 +116,7 @@ A place to store all our learnings
 ## Scala
 
 * [Why Scala](https://www.youtube.com/watch?v=LH75sJAR0hc)
+
+## .NET
+
+* [Simple REST and HTTP API Client for .NET](https://github.com/kato-im/RestSharp)
