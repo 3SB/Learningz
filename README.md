@@ -10,6 +10,7 @@ A place to store all our learnings
 ## Algorithms
 
 * [Bloom Filters](http://maciejczyzewski.me/2014/10/18/bloom-filters-fast-and-simple.html)
+* [Cuckoo Hashing](http://en.wikipedia.org/wiki/Cuckoo_hashing)
 
 ## Ubuntu
 
