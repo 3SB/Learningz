@@ -114,6 +114,7 @@ A place to store all our learnings
 * [Getting started](http://java.ociweb.com/mark/clojure/article.html)
 * [Hello world with clojure](http://ben.vandgrift.com/2013/03/13/clojure-hello-world.html)
 * [Sample code, from the clojurebook](https://github.com/clojurebook/ClojureProgramming)
+* [Brave Clojure](http://www.braveclojure.com/)
 
 ## Scala
 
