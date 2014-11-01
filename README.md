@@ -115,7 +115,7 @@ A place to store all our learnings
 * [Hello world with clojure](http://ben.vandgrift.com/2013/03/13/clojure-hello-world.html)
 * [Sample code, from the clojurebook](https://github.com/clojurebook/ClojureProgramming)
 * [Brave Clojure](http://www.braveclojure.com/)
-* [Why Clojure - Really really nice talk on some basics](https://www.youtube.com/watch?v=alMbUJneFn0)
+* [Why Clojure - Really really nice talk on some basics](https://www.youtube.com/watch?v=alMbUJneFn0). Associated [Gist](https://gist.github.com/brandonbloom/8429988)
 
 ## Scala
 
