@@ -117,6 +117,10 @@ A place to store all our learnings
 * [Brave Clojure](http://www.braveclojure.com/)
 * [Why Clojure - Really really nice talk on some basics](https://www.youtube.com/watch?v=alMbUJneFn0). Associated [Gist](https://gist.github.com/brandonbloom/8429988)
 
+### Clojure-CLR
+
+* [Good Repo on clojure CLR stuff](https://github.com/rippinrobr/clojure-clr-intro) and accompanying [website](http://www.myclojureadventure.com/)
+
 ## Scala
 
 * [Why Scala](https://www.youtube.com/watch?v=LH75sJAR0hc)
