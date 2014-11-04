@@ -129,3 +129,8 @@ A place to store all our learnings
 ## .NET
 
 * [Simple REST and HTTP API Client for .NET](https://github.com/kato-im/RestSharp)
+
+## F\# 
+
+* [Why F#](http://fsharpforfunandprofit.com/why-use-fsharp/)
+* [Why you should learn F#](http://www.codemag.com/Article/1203081)
