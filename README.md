@@ -116,6 +116,7 @@ A place to store all our learnings
 * [Sample code, from the clojurebook](https://github.com/clojurebook/ClojureProgramming)
 * [Brave Clojure](http://www.braveclojure.com/)
 * [Why Clojure - Really really nice talk on some basics](https://www.youtube.com/watch?v=alMbUJneFn0). Associated [Gist](https://gist.github.com/brandonbloom/8429988)
+* [Commandline apps with clojure](http://www.beaconhill.com/blog/?p=283)
 
 ### Clojure-CLR
 
