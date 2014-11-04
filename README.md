@@ -87,6 +87,11 @@ A place to store all our learnings
 * [Usage of buffers](http://www.reddit.com/r/vim/comments/1ujrvg/proper_usage_of_buffers/)
 * [Why learn vim?](http://www.reddit.com/r/vim/comments/1u8tbi/advice_for_those_resolving_to_learn_vim/)
 
+
+## Acme
+
+* [Great set of articles on using acme](http://echosa.github.io/blog/2014/06/18/lets-try-acme-ep-0-research/)
+
 ## Postgres related
 
 * [Using Dict cursors in psycopg2](http://initd.org/psycopg/docs/extras.html#dictionary-like-cursor)
