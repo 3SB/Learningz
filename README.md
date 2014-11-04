@@ -62,6 +62,7 @@ A place to store all our learnings
 ## Git
 
 * [Reverting part of commit](http://stackoverflow.com/questions/4795600/reverting-part-of-a-commit-with-git)
+* [Comprehensive guide - Stanford](http://www-cs-students.stanford.edu/~blynn/gitmagic/)
 
 ### Git Bash
 * [Autocomplete stops working when we do `set -o vi`](http://stackoverflow.com/questions/2252183/tab-autocompletion-in-bash-vi-shell-mode)
