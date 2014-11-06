@@ -48,6 +48,7 @@ A place to store all our learnings
 ## Javascript
 
 * [Prototypal inheritence](http://oli.me.uk/2013/06/01/prototypical-inheritance-done-right/)
+* [Underscore vs lodash benchmarks](http://pastie.org/9699461#)
 
 
 ## Shell
