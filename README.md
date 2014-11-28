@@ -44,6 +44,8 @@ A place to store all our learnings
 ### Python and Windows
 * [Making PyWin32 work with virtualenvs](http://www.activestate.com/blog/2010/12/tips-activepython-pywin32-and-virtualenv)
 
+### IPython
+* [Hide toolbar, menubar by default](http://stackoverflow.com/questions/23540870/ipython-notebook-how-to-toggle-header-invisible-by-default)
 
 ## Javascript
 
