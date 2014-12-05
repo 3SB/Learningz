@@ -147,3 +147,4 @@ A place to store all our learnings
 
 * [Why F#](http://fsharpforfunandprofit.com/why-use-fsharp/)
 * [Why you should learn F#](http://www.codemag.com/Article/1203081)
+* [Simple F# Open Source projects to get started](http://stackoverflow.com/questions/383848/f-open-source-projects)
