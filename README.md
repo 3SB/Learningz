@@ -51,6 +51,8 @@ A place to store all our learnings
 
 * [Prototypal inheritence](http://oli.me.uk/2013/06/01/prototypical-inheritance-done-right/)
 * [Underscore vs lodash benchmarks](http://pastie.org/9699461#)
+* [What is ReactJS](http://www.funnyant.com/reactjs-what-is-it/)
+* [ReactJS - Getting started](http://scotch.io/tutorials/javascript/learning-react-getting-started-and-concepts)
 
 
 ## Shell
