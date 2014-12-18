@@ -71,6 +71,7 @@ A place to store all our learnings
 * [Reverting part of commit](http://stackoverflow.com/questions/4795600/reverting-part-of-a-commit-with-git)
 * [Comprehensive guide - Stanford](http://www-cs-students.stanford.edu/~blynn/gitmagic/)
 * Writing a GIT plugin - [Part1](http://adamcod.es/2013/07/12/how-to-create-git-plugin.html) and [Part2](http://adamcod.es/2013/07/19/how-to-create-git-plugin-part2.html)
+* [Removing a git submodule](http://davidwalsh.name/git-remove-submodule)
 
 ### Git Bash
 * [Autocomplete stops working when we do `set -o vi`](http://stackoverflow.com/questions/2252183/tab-autocompletion-in-bash-vi-shell-mode)
