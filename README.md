@@ -66,6 +66,11 @@ A place to store all our learnings
 * [tr](http://www.thegeekstuff.com/2012/12/linux-tr-command/)
 * [sed & awk](http://www.tldp.org/LDP/abs/html/sedawk.html)
 
+## Svn 
+
+* [Quick Introduction to svn](https://code.google.com/p/westmont-risk/wiki/SvnTutorial)
+* [SVN Book](http://svnbook.red-bean.com/en/1.7/svn-book.html)
+
 ## Git
 
 * [Reverting part of commit](http://stackoverflow.com/questions/4795600/reverting-part-of-a-commit-with-git)
