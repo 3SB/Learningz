@@ -38,7 +38,7 @@ A place to store all our learnings
 * [TDD with django (a good book on TDD itself, from reviews)](http://chimera.labs.oreilly.com/books/1234000000754/index.html)
 * [Decorators](http://stackoverflow.com/questions/739654/how-can-i-make-a-chain-of-function-decorators-in-python/1594484#1594484)
 * [Some hidden gems](http://stackoverflow.com/questions/101268/hidden-features-of-python)
-* [How an `a=A()` works](http://stackoverflow.com/questions/13043359/will-python-class-init-method-implicitly-return-none)
+* [How `a=A()` works](http://stackoverflow.com/questions/13043359/will-python-class-init-method-implicitly-return-none)
 
 ### Reflection
 
