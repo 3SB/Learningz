@@ -58,6 +58,7 @@ A place to store all our learnings
 * [Underscore vs lodash benchmarks](http://pastie.org/9699461#)
 * [What is ReactJS](http://www.funnyant.com/reactjs-what-is-it/)
 * [ReactJS - Getting started](http://scotch.io/tutorials/javascript/learning-react-getting-started-and-concepts)
+* [Quirky parts of JS](http://bonsaiden.github.io/JavaScript-Garden/)
 
 
 ## Shell
