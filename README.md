@@ -72,6 +72,10 @@ A place to store all our learnings
 * [tr](http://www.thegeekstuff.com/2012/12/linux-tr-command/)
 * [sed & awk](http://www.tldp.org/LDP/abs/html/sedawk.html)
 
+## Makefiles
+
+* [Makefile basics](https://gist.github.com/isaacs/62a2d1825d04437c6f08)
+
 ## Svn 
 
 * [Quick Introduction to svn](https://code.google.com/p/westmont-risk/wiki/SvnTutorial)
