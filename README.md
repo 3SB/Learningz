@@ -39,6 +39,7 @@ A place to store all our learnings
 * [Decorators](http://stackoverflow.com/questions/739654/how-can-i-make-a-chain-of-function-decorators-in-python/1594484#1594484)
 * [Some hidden gems](http://stackoverflow.com/questions/101268/hidden-features-of-python)
 * [How `a=A()` works](http://stackoverflow.com/questions/13043359/will-python-class-init-method-implicitly-return-none)
+* [I wish I knew these things when I learned Python](http://bugra.github.io/work/notes/2015-01-03/i-wish-i-knew-these-things-when-i-first-learned-python/)
 
 ### Reflection
 
