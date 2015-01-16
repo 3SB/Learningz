@@ -130,9 +130,9 @@ A place to store all our learnings
 
 * [Folding clothes](https://www.youtube.com/watch?feature=player_embedded&v=Ark90G_aWLM)
 
-## How Bootstrap 3 works
+## Bootstrap 3
 
-* [Nice visual & logical explanation](http://www.helloerik.com/the-subtle-magic-behind-why-the-bootstrap-3-grid-works)
+* [Visual explanation of grid system](http://www.helloerik.com/the-subtle-magic-behind-why-the-bootstrap-3-grid-works)
 
 
 ## Ansible
