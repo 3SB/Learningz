@@ -115,6 +115,7 @@ A place to store all our learnings
 
 ## Emacs
 * [Emacs installed via brew and M-X Cider-jack-in problem](http://clojure-doc.org/articles/tutorials/emacs.html)
+* [Managing windows](http://ergoemacs.org/emacs/emacs_winner_mode.html)
 
 ## reStructuredText
 
