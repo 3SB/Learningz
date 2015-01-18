@@ -113,6 +113,9 @@ A place to store all our learnings
 * [Usage of buffers](http://www.reddit.com/r/vim/comments/1ujrvg/proper_usage_of_buffers/)
 * [Why learn vim?](http://www.reddit.com/r/vim/comments/1u8tbi/advice_for_those_resolving_to_learn_vim/)
 
+## Emacs
+* [Emacs installed via brew and M-X Cider-jack-in problem](http://clojure-doc.org/articles/tutorials/emacs.html)
+
 ## reStructuredText
 
 * [Primer from Sphinx docs](http://sphinx-doc.org/rest.html)
