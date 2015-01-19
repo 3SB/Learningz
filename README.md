@@ -7,7 +7,7 @@ A place to store all our learnings
 
 * [Punctuation tips](https://medium.com/@wwnorton/punctuation-tips-a5e0d4a5e990)
 
-## Algorithmsp
+## Algorithms
 
 * [Bloom Filters](http://maciejczyzewski.me/2014/10/18/bloom-filters-fast-and-simple.html)
 * [Cuckoo Hashing](http://en.wikipedia.org/wiki/Cuckoo_hashing)
@@ -62,6 +62,9 @@ A place to store all our learnings
 * [ReactJS - Getting started](http://scotch.io/tutorials/javascript/learning-react-getting-started-and-concepts)
 * [Quirky parts of JS](http://bonsaiden.github.io/JavaScript-Garden/)
 
+## Google Maps
+
+* [List of all possible url params to Google Maps when embedding](http://moz.com/ugc/everything-you-never-wanted-to-know-about-google-maps-parameters)
 
 ## Shell
 
