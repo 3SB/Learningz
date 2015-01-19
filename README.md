@@ -66,6 +66,10 @@ A place to store all our learnings
 
 * [List of all possible url params to Google Maps when embedding](http://moz.com/ugc/everything-you-never-wanted-to-know-about-google-maps-parameters)
 
+## Photoshop
+
+* [Introduction to photoshop scripting](http://www.smashingmagazine.com/2013/07/25/introduction-to-photoshop-scripting/)
+
 ## Shell
 
 * [Practical GREP uses](http://www.thegeekstuff.com/2009/03/15-practical-unix-grep-command-examples/)
