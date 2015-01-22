@@ -17,7 +17,7 @@ A place to store all our learnings
 * [Installing a new java version](http://openjdk.java.net/install/)
 * [Switching java version](https://www.digitalocean.com/community/tutorials/how-to-install-java-on-ubuntu-with-apt-get)
  
-## SSH
+## SSHp
 
 * [Using a ssh-config file](http://nerderati.com/2011/03/17/simplify-your-life-with-an-ssh-config-file/)
 
@@ -40,6 +40,7 @@ A place to store all our learnings
 * [Some hidden gems](http://stackoverflow.com/questions/101268/hidden-features-of-python)
 * [How `a=A()` works](http://stackoverflow.com/questions/13043359/will-python-class-init-method-implicitly-return-none)
 * [I wish I knew these things when I learned Python](http://bugra.github.io/work/notes/2015-01-03/i-wish-i-knew-these-things-when-i-first-learned-python/)
+* [Writing a lisp interpreter in python](http://norvig.com/lispy.html)
 
 ### Reflection
 
