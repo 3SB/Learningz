@@ -17,7 +17,7 @@ A place to store all our learnings
 * [Installing a new java version](http://openjdk.java.net/install/)
 * [Switching java version](https://www.digitalocean.com/community/tutorials/how-to-install-java-on-ubuntu-with-apt-get)
  
-## SSHp
+## SSH
 
 * [Using a ssh-config file](http://nerderati.com/2011/03/17/simplify-your-life-with-an-ssh-config-file/)
 
