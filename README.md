@@ -80,6 +80,7 @@ A place to store all our learnings
 * [cut](http://www.folkstalk.com/2012/02/cut-command-in-unix-linux-examples.html)
 * [tr](http://www.thegeekstuff.com/2012/12/linux-tr-command/)
 * [sed & awk](http://www.tldp.org/LDP/abs/html/sedawk.html)
+* [Parsing `ls`](http://mywiki.wooledge.org/ParsingLs)
 
 ## Makefiles
 
