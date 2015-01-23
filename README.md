@@ -62,6 +62,7 @@ A place to store all our learnings
 * [What is ReactJS](http://www.funnyant.com/reactjs-what-is-it/)
 * [ReactJS - Getting started](http://scotch.io/tutorials/javascript/learning-react-getting-started-and-concepts)
 * [Quirky parts of JS](http://bonsaiden.github.io/JavaScript-Garden/)
+* [D3 tutorials - for absolute beginners](http://chimera.labs.oreilly.com/books/1230000000345/index.html)
 
 ## Google Maps
 
