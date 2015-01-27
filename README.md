@@ -122,6 +122,7 @@ A place to store all our learnings
 * [Learning VIM in VIM](http://nerds.weddingpartyapp.com/tech/2013/11/17/mastering-vim-in-vim/)
 * [Usage of buffers](http://www.reddit.com/r/vim/comments/1ujrvg/proper_usage_of_buffers/)
 * [Why learn vim?](http://www.reddit.com/r/vim/comments/1u8tbi/advice_for_those_resolving_to_learn_vim/)
+* [Learning Vimscript the hard way](http://learnvimscriptthehardway.stevelosh.com/)
 
 ## Emacs
 * [Emacs installed via brew and M-X Cider-jack-in problem](http://clojure-doc.org/articles/tutorials/emacs.html)
