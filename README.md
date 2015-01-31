@@ -3,6 +3,11 @@ Learningz
 
 A place to store all our learnings
 
+## Interesting slide decks to learn from 
+
+* https://speakerdeck.com/orderedlist/producing-creativity
+* https://speakerdeck.com/62gerente/bash-introduction
+
 ## English
 
 * [Punctuation tips](https://medium.com/@wwnorton/punctuation-tips-a5e0d4a5e990)
