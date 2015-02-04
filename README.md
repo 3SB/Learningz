@@ -12,6 +12,7 @@ A place to store all our learnings
 
 * [Punctuation tips](https://medium.com/@wwnorton/punctuation-tips-a5e0d4a5e990)
 
+
 ## Algorithms
 
 * [Bloom Filters](http://maciejczyzewski.me/2014/10/18/bloom-filters-fast-and-simple.html)
@@ -166,6 +167,10 @@ A place to store all our learnings
 
 * [Why systemd](http://blog.jorgenschaefer.de/2014/07/why-systemd.html)
 * [daemon](http://www.freedesktop.org/software/systemd/man/daemon.html)
+
+## Immutability
+
+* [The value of values - Rich Hickey](https://www.youtube.com/watch?v=-6BsiVyC1kM)
 
 ## Clojure
 
