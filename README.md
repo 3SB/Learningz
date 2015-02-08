@@ -192,6 +192,7 @@ A place to store all our learnings
 ## .NET
 
 * [Simple REST and HTTP API Client for .NET](https://github.com/kato-im/RestSharp)
+* [Introduction to the CLR](https://github.com/dotnet/coreclr/blob/master/Documentation/intro-to-clr.md)
 
 ## F\# 
 
