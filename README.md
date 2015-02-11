@@ -140,6 +140,7 @@ A place to store all our learnings
 
 * [Primer from Sphinx docs](http://sphinx-doc.org/rest.html)
 * [Primer from Nikola (static site generator)](http://getnikola.com/quickstart.html)
+* [Quick RST viewer](http://mg.pov.lt/restview/)
 
 ## Acme
 
