@@ -70,6 +70,11 @@ A place to store all our learnings
 * [ReactJS - Getting started](http://scotch.io/tutorials/javascript/learning-react-getting-started-and-concepts)
 * [Quirky parts of JS](http://bonsaiden.github.io/JavaScript-Garden/)
 * [D3 tutorials - for absolute beginners](http://chimera.labs.oreilly.com/books/1230000000345/index.html)
+* [Using handlebars](http://jsfiddle.net/raghothams/BQ3SD/5/)
+
+## CSS 
+
+* [Trello's CSS guide](https://gist.github.com/shrayasr/f35be977cbb274baed11)
 
 ## Google Maps
 
@@ -119,10 +124,6 @@ A place to store all our learnings
 ## SQL
 
 * [Aggregate functions and using them the right way](http://www.looker.com/news/blog/aggregate-functions-gone-bad-and-joins-who-made-them-way)
-
-## Web
-
-* [Using handlebars](http://jsfiddle.net/raghothams/BQ3SD/5/)
  
 ## VIM
 
