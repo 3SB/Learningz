@@ -48,6 +48,7 @@ A place to store all our learnings
 * [I wish I knew these things when I learned Python](http://bugra.github.io/work/notes/2015-01-03/i-wish-i-knew-these-things-when-i-first-learned-python/)
 * [Writing a lisp interpreter in python](http://norvig.com/lispy.html)
 * [Idomatic python](http://python.net/~goodger/projects/pycon/2007/idiomatic/handout.html)
+* [VI mode in python and IPython](http://www.reddit.com/r/Python/comments/2w1te5/you_can_use_vi_mode_editing_in_python_and_ipython/)
 
 ### Reflection
 
