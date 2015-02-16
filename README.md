@@ -8,7 +8,7 @@ A place to store all our learnings
 * https://speakerdeck.com/orderedlist/producing-creativity
 * https://speakerdeck.com/62gerente/bash-introduction
 
-## English
+## Englishc
 
 * [Punctuation tips](https://medium.com/@wwnorton/punctuation-tips-a5e0d4a5e990)
 
@@ -182,6 +182,7 @@ A place to store all our learnings
 * [Brave Clojure](http://www.braveclojure.com/)
 * [Why Clojure - Really really nice talk on some basics](https://www.youtube.com/watch?v=alMbUJneFn0). Associated [Gist](https://gist.github.com/brandonbloom/8429988)
 * [Commandline apps with clojure](http://www.beaconhill.com/blog/?p=283)
+* [Beginners guide to clojure](http://mbonaci.github.io/clojure/)
 
 ### Clojure-CLR
 
