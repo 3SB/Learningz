@@ -171,7 +171,7 @@ A place to store all our learnings
 * [Why systemd](http://blog.jorgenschaefer.de/2014/07/why-systemd.html)
 * [daemon](http://www.freedesktop.org/software/systemd/man/daemon.html)
 
-## Immutability
+## Talks
 
 * [The value of values - Rich Hickey](https://www.youtube.com/watch?v=-6BsiVyC1kM)
 
@@ -192,6 +192,7 @@ A place to store all our learnings
 ## Scala
 
 * [Why Scala](https://www.youtube.com/watch?v=LH75sJAR0hc)
+* [16 months of FP with Scala](http://www.vasinov.com/blog/16-months-of-functional-programming/)
 
 ## .NET
 
