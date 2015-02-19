@@ -171,6 +171,12 @@ A place to store all our learnings
 * [Why systemd](http://blog.jorgenschaefer.de/2014/07/why-systemd.html)
 * [daemon](http://www.freedesktop.org/software/systemd/man/daemon.html)
 
+## Libraries
+
+### Python
+
+* [Cleansing data on web pages](https://github.com/grangier/python-goose)
+
 ## Talks
 
 * [The value of values - Rich Hickey](https://www.youtube.com/watch?v=-6BsiVyC1kM)
