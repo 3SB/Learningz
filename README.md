@@ -196,6 +196,7 @@ A place to store all our learnings
 * [Why Clojure - Really really nice talk on some basics](https://www.youtube.com/watch?v=alMbUJneFn0). Associated [Gist](https://gist.github.com/brandonbloom/8429988)
 * [Commandline apps with clojure](http://www.beaconhill.com/blog/?p=283)
 * [Beginners guide to clojure](http://mbonaci.github.io/clojure/)
+* [Deploying a compojure app to heroku](http://stackoverflow.com/questions/27758547/compojure-app-runs-locally-but-cannot-find-main-class-lein-when-deployed-to-her)
 
 ### Clojure-CLR
 
