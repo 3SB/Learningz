@@ -201,6 +201,10 @@ A place to store all our learnings
 
 * [Good Repo on clojure CLR stuff](https://github.com/rippinrobr/clojure-clr-intro) and accompanying [website](http://www.myclojureadventure.com/)
 
+### Clojurescript 
+
+* [Detailed Clojurescript tutorial](http://www.niwi.be/cljs-workshop/)
+
 ## Scala
 
 * [Why Scala](https://www.youtube.com/watch?v=LH75sJAR0hc)
