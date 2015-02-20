@@ -149,6 +149,11 @@ A place to store all our learnings
 
 * [Great set of articles on using acme](http://echosa.github.io/blog/2014/06/18/lets-try-acme-ep-0-research/)
 
+## LaTeX
+
+* [Making slides.. and doing it with beamer](http://web.mit.edu/rsi/www/pdfs/beamer-tutorial.pdf)
+* [Quick tutorial for the beamer package](http://heather.cs.ucdavis.edu/~matloff/beamer.html)
+
 ## Postgres related
 
 * [Using Dict cursors in psycopg2](http://initd.org/psycopg/docs/extras.html#dictionary-like-cursor)
