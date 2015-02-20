@@ -133,6 +133,7 @@ A place to store all our learnings
 * [Usage of buffers](http://www.reddit.com/r/vim/comments/1ujrvg/proper_usage_of_buffers/)
 * [Why learn vim?](http://www.reddit.com/r/vim/comments/1u8tbi/advice_for_those_resolving_to_learn_vim/)
 * [Learning Vimscript the hard way](http://learnvimscriptthehardway.stevelosh.com/)
+* [Spell checking in vim](http://robots.thoughtbot.com/vim-spell-checking)
 
 ## Emacs
 * [Emacs installed via brew and M-X Cider-jack-in problem](http://clojure-doc.org/articles/tutorials/emacs.html)
