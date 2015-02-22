@@ -8,6 +8,10 @@ A place to store all our learnings
 * https://speakerdeck.com/orderedlist/producing-creativity
 * https://speakerdeck.com/62gerente/bash-introduction
 
+## Typography
+
+* [Anatomy of type](http://martinsilvertant.deviantart.com/art/Typography-Series-01-Anatomy-of-typography-329617642)
+
 ## English
 
 * [Punctuation tips](https://medium.com/@wwnorton/punctuation-tips-a5e0d4a5e990)
