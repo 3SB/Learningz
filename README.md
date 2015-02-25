@@ -207,6 +207,7 @@ A place to store all our learnings
 * [Beginners guide to clojure](http://mbonaci.github.io/clojure/)
 * [Deploying a compojure app to heroku](http://stackoverflow.com/questions/27758547/compojure-app-runs-locally-but-cannot-find-main-class-lein-when-deployed-to-her)
 * [Vim and clojure](http://blog.venanti.us/clojure-vim)
+* [Tips on using Hiccup](http://www.lispcast.com/hiccup-tips?utm_source=dlvr.it&utm_medium=twitter)
 
 ### Clojure-CLR
 
