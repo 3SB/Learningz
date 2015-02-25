@@ -16,6 +16,9 @@ A place to store all our learnings
 
 * [Punctuation tips](https://medium.com/@wwnorton/punctuation-tips-a5e0d4a5e990)
 
+## OSX 
+
+* [Mounting a image to a folder instead of `/volumes`](http://apple.stackexchange.com/questions/23522/how-do-i-mount-a-sparsebundle-to-a-folder-rather-than-an-image)
 
 ## Algorithms
 
