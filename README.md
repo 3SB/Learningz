@@ -76,6 +76,7 @@ A place to store all our learnings
 * [Quirky parts of JS](http://bonsaiden.github.io/JavaScript-Garden/)
 * [D3 tutorials - for absolute beginners](http://chimera.labs.oreilly.com/books/1230000000345/index.html)
 * [Using handlebars](http://jsfiddle.net/raghothams/BQ3SD/5/)
+* [D3 plus - easier interactive charts](http://d3plus.org/)
 
 ## CSS 
 
