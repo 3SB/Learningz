@@ -129,6 +129,11 @@ A place to store all our learnings
 ### Git Bash
 * [Autocomplete stops working when we do `set -o vi`](http://stackoverflow.com/questions/2252183/tab-autocompletion-in-bash-vi-shell-mode)
 
+### Setting up Git locally 
+
+* [Git-scm guide](http://git-scm.com/book/en/v2/Git-on-the-Server-Setting-Up-the-Server)
+* [Digital ocean guide](https://www.digitalocean.com/community/tutorials/how-to-set-up-a-private-git-server-on-a-vps)
+
 ## Networking concepts
 
 * [DNS Resolution](http://blog.taos.com/2013/11/19/dns-resolution-a-primer/)
