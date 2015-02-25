@@ -194,11 +194,15 @@ A place to store all our learnings
 * [Why systemd](http://blog.jorgenschaefer.de/2014/07/why-systemd.html)
 * [daemon](http://www.freedesktop.org/software/systemd/man/daemon.html)
 
-## Libraries
+## Resources
 
 ### Python
 
 * [Cleansing data on web pages](https://github.com/grangier/python-goose)
+
+### Data
+
+* [Small corpora for quick work](https://github.com/dariusk/corpora)
 
 ## Talks
 
