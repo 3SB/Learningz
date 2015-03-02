@@ -25,6 +25,10 @@ A place to store all our learnings
 * [Bloom Filters](http://maciejczyzewski.me/2014/10/18/bloom-filters-fast-and-simple.html)
 * [Cuckoo Hashing](http://en.wikipedia.org/wiki/Cuckoo_hashing)
 
+## Signals
+
+* [Introduction et al on signal processing](http://jackschaedler.github.io/circles-sines-signals/index.html)
+
 ## Ubuntu
 
 * [Installing a new java version](http://openjdk.java.net/install/)
