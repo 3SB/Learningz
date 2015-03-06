@@ -125,6 +125,7 @@ A place to store all our learnings
 * Writing a GIT plugin - [Part1](http://adamcod.es/2013/07/12/how-to-create-git-plugin.html) and [Part2](http://adamcod.es/2013/07/19/how-to-create-git-plugin-part2.html)
 * [Removing a git submodule](http://davidwalsh.name/git-remove-submodule)
 * [Git for intermediate users](https://www.andyjeffries.co.uk/25-tips-for-intermediate-git-users/) 
+* [Most common pitfalls and their solutions](http://41j.com/blog/2015/02/common-git-screwupsquestions-solutions/)
  
 ### SVN migration to Git
 
