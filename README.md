@@ -109,6 +109,10 @@ A place to store all our learnings
 * [sed & awk](http://www.tldp.org/LDP/abs/html/sedawk.html)
 * [Parsing `ls`](http://mywiki.wooledge.org/ParsingLs)
 
+## CSharp
+
+* [Can I read from a SQLite DB embedded in a DLL?](http://stackoverflow.com/questions/791198/how-can-i-embed-a-sqlite-database-in-a-net-dll-and-then-use-it-from-c)
+
 ## Makefiles
 
 * [Makefile basics](https://gist.github.com/isaacs/62a2d1825d04437c6f08)
