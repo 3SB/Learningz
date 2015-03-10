@@ -231,6 +231,8 @@ A place to store all our learnings
 * [Deploying a compojure app to heroku](http://stackoverflow.com/questions/27758547/compojure-app-runs-locally-but-cannot-find-main-class-lein-when-deployed-to-her)
 * [Vim and clojure](http://blog.venanti.us/clojure-vim)
 * [Tips on using Hiccup](http://www.lispcast.com/hiccup-tips?utm_source=dlvr.it&utm_medium=twitter)
+* Can only recur from tail position: [1](http://stackoverflow.com/questions/10864172/clojure-can-only-recur-from-tail-position) [2](http://stackoverflow.com/questions/28511825/can-only-recur-from-tail-position-compiling-error-while-using-recur-in-loop)
+* [Ignore exceptions](http://stackoverflow.com/questions/15715546/clojure-how-to-ignore-exceptions-that-may-be-thrown-from-an-expression)
 
 ### Clojure-CLR
 
