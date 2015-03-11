@@ -218,6 +218,7 @@ A place to store all our learnings
 ## Talks
 
 * [The value of values - Rich Hickey](https://www.youtube.com/watch?v=-6BsiVyC1kM)
+* [Bitbucket's internals](https://www.youtube.com/watch?v=2ll2ER3wpus)
 
 ## Clojure
 
