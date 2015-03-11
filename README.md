@@ -234,6 +234,7 @@ A place to store all our learnings
 * Can only recur from tail position: [1](http://stackoverflow.com/questions/10864172/clojure-can-only-recur-from-tail-position) [2](http://stackoverflow.com/questions/28511825/can-only-recur-from-tail-position-compiling-error-while-using-recur-in-loop)
 * [Ignore exceptions](http://stackoverflow.com/questions/15715546/clojure-how-to-ignore-exceptions-that-may-be-thrown-from-an-expression)
 * [Iterate over the `kv`'s in a map](http://stackoverflow.com/questions/6685916/how-to-iterate-over-map-keys-and-values)
+* [Configuration files in Clojure](http://stackoverflow.com/questions/7777882/loading-configuration-file-in-clojure-as-data-structure)
 
 ### Clojure-CLR
 
