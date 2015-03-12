@@ -60,6 +60,8 @@ A place to store all our learnings
 * [Writing a lisp interpreter in python](http://norvig.com/lispy.html)
 * [Idomatic python](http://python.net/~goodger/projects/pycon/2007/idiomatic/handout.html)
 * [VI mode in python and IPython](http://www.reddit.com/r/Python/comments/2w1te5/you_can_use_vi_mode_editing_in_python_and_ipython/)
+* [Tango with Django](http://www.tangowithdjango.com/book17/)
+* [TDD in Python (Free online book)](http://www.obeythetestinggoat.com/)
 
 ### Reflection
 
