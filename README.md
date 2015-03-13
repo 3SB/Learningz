@@ -217,6 +217,10 @@ A place to store all our learnings
 
 * [Small corpora for quick work](https://github.com/dariusk/corpora)
 
+### Course material
+
+* [Introduction to programming with Haskell (CMI)](http://www.cmi.ac.in/~kumar/prog2012/)
+
 ## Talks
 
 * [The value of values - Rich Hickey](https://www.youtube.com/watch?v=-6BsiVyC1kM)
