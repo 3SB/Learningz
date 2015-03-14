@@ -12,9 +12,11 @@ A place to store all our learnings
 
 * [Anatomy of type](http://martinsilvertant.deviantart.com/art/Typography-Series-01-Anatomy-of-typography-329617642)
 
-## English
+## Life
 
 * [Punctuation tips](https://medium.com/@wwnorton/punctuation-tips-a5e0d4a5e990)
+* [Quickie cycle wash](http://blog.bumsonthesaddle.com/2015/03/14/how-to-the-quickie-bike-wash/)
+* [Folding clothes](https://www.youtube.com/watch?feature=player_embedded&v=Ark90G_aWLM)
 
 ## OSX 
 
@@ -188,19 +190,13 @@ A place to store all our learnings
 
 * [Using Dict cursors in psycopg2](http://initd.org/psycopg/docs/extras.html#dictionary-like-cursor)
 
-## Life tips
-
-* [Folding clothes](https://www.youtube.com/watch?feature=player_embedded&v=Ark90G_aWLM)
-
 ## Bootstrap 3
 
 * [Visual explanation of grid system](http://www.helloerik.com/the-subtle-magic-behind-why-the-bootstrap-3-grid-works)
 
-
 ## Ansible
 
 * [Starter guide, kind of zero to hero guide](https://serversforhackers.com/editions/2014/08/26/getting-started-with-ansible/)
-
 
 ## Linux
 
