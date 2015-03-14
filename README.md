@@ -18,6 +18,10 @@ A place to store all our learnings
 * [Quickie cycle wash](http://blog.bumsonthesaddle.com/2015/03/14/how-to-the-quickie-bike-wash/)
 * [Folding clothes](https://www.youtube.com/watch?feature=player_embedded&v=Ark90G_aWLM)
 
+## Math
+
+* [Pi day twitter collection](https://twitter.com/ainvvy/timelines/576613862746673152)
+
 ## OSX 
 
 * [Mounting a image to a folder instead of `/volumes`](http://apple.stackexchange.com/questions/23522/how-do-i-mount-a-sparsebundle-to-a-folder-rather-than-an-image)
