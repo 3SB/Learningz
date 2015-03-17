@@ -68,6 +68,7 @@ A place to store all our learnings
 * [VI mode in python and IPython](http://www.reddit.com/r/Python/comments/2w1te5/you_can_use_vi_mode_editing_in_python_and_ipython/)
 * [Tango with Django](http://www.tangowithdjango.com/book17/)
 * [TDD in Python (Free online book)](http://www.obeythetestinggoat.com/)
+* [Bulk inserts via SQLAlchemy and Flask-SQLAlchemy](https://gist.github.com/shrayasr/5df96d5bc287f3a2faa4)
 
 ### Reflection
 
