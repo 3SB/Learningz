@@ -69,6 +69,7 @@ A place to store all our learnings
 * [Tango with Django](http://www.tangowithdjango.com/book17/)
 * [TDD in Python (Free online book)](http://www.obeythetestinggoat.com/)
 * [Bulk inserts via SQLAlchemy and Flask-SQLAlchemy](https://gist.github.com/shrayasr/5df96d5bc287f3a2faa4)
+* [Case insensitive compare in SQLAlchemy](http://stackoverflow.com/questions/16573095/case-insensitive-flask-sqlalchemy-query)
 
 ### Reflection
 
