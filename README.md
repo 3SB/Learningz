@@ -258,6 +258,10 @@ A place to store all our learnings
 
 * [Detailed Clojurescript tutorial](http://www.niwi.be/cljs-workshop/)
 
+## Scheme
+
+* [Teach yourself Scheme in fixnum days](http://www.ccs.neu.edu/home/dorai/t-y-scheme/t-y-scheme-Z-H-1.html)
+
 ## Scala
 
 * [Why Scala](https://www.youtube.com/watch?v=LH75sJAR0hc)
