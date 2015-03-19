@@ -70,6 +70,9 @@ A place to store all our learnings
 * [TDD in Python (Free online book)](http://www.obeythetestinggoat.com/)
 * [Bulk inserts via SQLAlchemy and Flask-SQLAlchemy](https://gist.github.com/shrayasr/5df96d5bc287f3a2faa4)
 * [Case insensitive compare in SQLAlchemy](http://stackoverflow.com/questions/16573095/case-insensitive-flask-sqlalchemy-query)
+* [Bulk delete in SQLAlchemy](http://docs.sqlalchemy.org/en/latest/orm/query.html#sqlalchemy.orm.query.Query.delete)
+* [Defining ONUPDATE and ONCASCADE in DB with SQLAlchemy](http://docs.sqlalchemy.org/en/rel_0_8/core/constraints.html#on-update-and-on-delete)
+* [SQLAlchemy bulk delete after using `.filter_by()`](http://stackoverflow.com/questions/19243964/python-sql-alchemy-cascade-delete)
 
 ### Reflection
 
