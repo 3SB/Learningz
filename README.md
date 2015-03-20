@@ -7,6 +7,7 @@ A place to store all our learnings
 
 * https://speakerdeck.com/orderedlist/producing-creativity
 * https://speakerdeck.com/62gerente/bash-introduction
+* https://speakerdeck.com/mitsuhiko/10-years-of-python-libraries
 
 ## Typography
 
