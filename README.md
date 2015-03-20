@@ -205,6 +205,7 @@ A place to store all our learnings
 ## Bootstrap 3
 
 * [Visual explanation of grid system](http://www.helloerik.com/the-subtle-magic-behind-why-the-bootstrap-3-grid-works)
+* [Collapsible panel](http://jsbin.com/xuragejoho/1/edit?html,output)
 
 ## Ansible
 
