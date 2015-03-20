@@ -121,6 +121,7 @@ A place to store all our learnings
 * [tr](http://www.thegeekstuff.com/2012/12/linux-tr-command/)
 * [sed & awk](http://www.tldp.org/LDP/abs/html/sedawk.html)
 * [Parsing `ls`](http://mywiki.wooledge.org/ParsingLs)
+* [Flush bash history after each command](http://northernmost.org/blog/flush-bash_history-after-each-command/comment-page-1/index.html#comment-640)
 
 ## CSharp
 
