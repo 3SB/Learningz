@@ -175,6 +175,7 @@ A place to store all our learnings
 * [Why learn vim?](http://www.reddit.com/r/vim/comments/1u8tbi/advice_for_those_resolving_to_learn_vim/)
 * [Learning Vimscript the hard way](http://learnvimscriptthehardway.stevelosh.com/)
 * [Spell checking in vim](http://robots.thoughtbot.com/vim-spell-checking)
+* [Sharpening the VIM saw](http://vimcasts.org/blog/2012/08/on-sharpening-the-saw/)
 
 ## Emacs
 * [Emacs installed via brew and M-X Cider-jack-in problem](http://clojure-doc.org/articles/tutorials/emacs.html)
