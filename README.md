@@ -1,7 +1,65 @@
-Learningz
-=========
+# Learningz
+> A place to store all our learnings
 
-A place to store all our learnings
+Table of Contents
+=================
+
+   * [Interesting slide decks to learn from](#interesting-slide-decks-to-learn-from)
+   * [Typography](#typography)
+   * [Life](#life)
+   * [Math](#math)
+   * [OSX](#osx)
+   * [Algorithms](#algorithms)
+   * [Signals](#signals)
+   * [Ubuntu](#ubuntu)
+   * [SSH](#ssh)
+   * [Design Patterns](#design-patterns)
+   * [Data Structures](#data-structures)
+   * [Python](#python)
+     * [Reflection](#reflection)
+     * [Python and Windows](#python-and-windows)
+     * [IPython](#ipython)
+   * [Javascript](#javascript)
+   * [CSS](#css)
+   * [Google Maps](#google-maps)
+   * [Photoshop](#photoshop)
+   * [Shell](#shell)
+   * [CSharp](#csharp)
+   * [Makefiles](#makefiles)
+   * [Svn](#svn)
+   * [Git](#git)
+     * [SVN migration to Git](#svn-migration-to-git)
+     * [Git Bash](#git-bash)
+     * [Setting up Git locally](#setting-up-git-locally)
+   * [Networking concepts](#networking-concepts)
+   * [SQL](#sql)
+   * [VIM](#vim)
+   * [Emacs](#emacs)
+   * [reStructuredText](#restructuredtext)
+   * [Acme](#acme)
+   * [LaTeX](#latex)
+   * [Postgres related](#postgres-related)
+   * [Bootstrap 3](#bootstrap-3)
+   * [Ansible](#ansible)
+   * [Linux](#linux)
+   * [Resources](#resources)
+     * [Python](#python-1)
+     * [Data](#data)
+     * [Course material](#course-material)
+   * [Talks](#talks)
+   * [RFCs](#rfcs)
+   * [Clojure](#clojure)
+     * [Clojure-CLR](#clojure-clr)
+     * [Clojurescript](#clojurescript)
+   * [Scheme](#scheme)
+   * [Scala](#scala)
+   * [.NET](#net)
+   * [F#](#f)
+   * [Haskell](#haskell)
+
+
+
+---
 
 ## Interesting slide decks to learn from 
 
@@ -290,3 +348,7 @@ A place to store all our learnings
 ## Haskell
 
 * [Learning Haskell - Where to start](http://bitemyapp.com/posts/2014-12-31-functional-education.html)
+
+---
+
+TOC Credits to [gh-md-toc](https://github.com/ekalinin/github-markdown-toc)
