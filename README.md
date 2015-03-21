@@ -74,6 +74,7 @@ A place to store all our learnings
 * [Bulk delete in SQLAlchemy](http://docs.sqlalchemy.org/en/latest/orm/query.html#sqlalchemy.orm.query.Query.delete)
 * [Defining ONUPDATE and ONCASCADE in DB with SQLAlchemy](http://docs.sqlalchemy.org/en/rel_0_8/core/constraints.html#on-update-and-on-delete)
 * [SQLAlchemy bulk delete after using `.filter_by()`](http://stackoverflow.com/questions/19243964/python-sql-alchemy-cascade-delete)
+* [Distinct in SQLAlchemy](http://stackoverflow.com/questions/2175355/selecting-distinct-column-values-in-sqlalchemy-elixir)
 
 ### Reflection
 
