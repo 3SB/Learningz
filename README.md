@@ -128,6 +128,7 @@ A place to store all our learnings
 ## CSharp
 
 * [Can I read from a SQLite DB embedded in a DLL?](http://stackoverflow.com/questions/791198/how-can-i-embed-a-sqlite-database-in-a-net-dll-and-then-use-it-from-c)
+* [Unserstanding and developing web services (in C#)](http://programmers.stackexchange.com/questions/121801/understanding-and-developing-web-services)
 
 ## Makefiles
 
