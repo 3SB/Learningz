@@ -183,6 +183,7 @@ Table of Contents
 * [sed & awk](http://www.tldp.org/LDP/abs/html/sedawk.html)
 * [Parsing `ls`](http://mywiki.wooledge.org/ParsingLs)
 * [Flush bash history after each command](http://northernmost.org/blog/flush-bash_history-after-each-command/comment-page-1/index.html#comment-640)
+* [Parameter operations in Bash](http://mywiki.wooledge.org/BashSheet#Parameter_Operations)
 
 ## CSharp
 
