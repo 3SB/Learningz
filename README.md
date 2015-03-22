@@ -90,6 +90,7 @@ Table of Contents
 
 * [Why care? Part-1: Immutability](http://miles.no/blogg/why-care-about-functional-programming-part-1-immutability)
 * [Why care? Part-2: Transformations](http://miles.no/blogg/why-should-we-care-about-functional-programming-part-2-transformations)
+* [Why care? Part-3: Type Inference](http://miles.no/blogg/why-should-we-care-about-functional-programming-part-3-type-inference)
 
 ## Algorithms
 
