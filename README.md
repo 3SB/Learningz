@@ -89,6 +89,7 @@ Table of Contents
 ## Functional Programming
 
 * [Why care? Part-1: Immutability](http://miles.no/blogg/why-care-about-functional-programming-part-1-immutability)
+* [Why care? Part-2: Transformations](http://miles.no/blogg/why-should-we-care-about-functional-programming-part-2-transformations)
 
 ## Algorithms
 
