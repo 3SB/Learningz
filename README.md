@@ -354,6 +354,7 @@ Table of Contents
 
 * [Simple REST and HTTP API Client for .NET](https://github.com/kato-im/RestSharp)
 * [Introduction to the CLR](https://github.com/dotnet/coreclr/blob/master/Documentation/intro-to-clr.md)
+* [Why I left the .Net framework](http://blog.jonathanoliver.com/why-i-left-dot-net/)
 
 ## F\# 
 
