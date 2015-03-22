@@ -10,6 +10,7 @@ Table of Contents
 * [Math](#math)
 * [OSX](#osx)
 * [Functional Programming](#functional-programming)
+* [Gaming](#gaming)
 * [Algorithms](#algorithms)
 * [Signals](#signals)
 * [Ubuntu](#ubuntu)
@@ -92,6 +93,10 @@ Table of Contents
 * [Why care? Part-2: Transformations](http://miles.no/blogg/why-should-we-care-about-functional-programming-part-2-transformations)
 * [Why care? Part-3: Type Inference](http://miles.no/blogg/why-should-we-care-about-functional-programming-part-3-type-inference)
 * [Type inference vs Dynamic typing](http://herbsutter.com/2008/06/20/type-inference-vs-staticdynamic-typing/)
+
+## Gaming
+
+* [What a programmer needs to know about game networking?](http://gafferongames.com/networking-for-game-programmers/what-every-programmer-needs-to-know-about-game-networking/)
 
 ## Algorithms
 
