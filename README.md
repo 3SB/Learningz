@@ -273,6 +273,7 @@ Table of Contents
 
 * [Making slides.. and doing it with beamer](http://web.mit.edu/rsi/www/pdfs/beamer-tutorial.pdf)
 * [Quick tutorial for the beamer package](http://heather.cs.ucdavis.edu/~matloff/beamer.html)
+* [Beautiful typography in LaTeX](http://tex.stackexchange.com/questions/1319/showcase-of-beautiful-typography-done-in-tex-friends/24719#24719)
 
 ## Postgres related
 
