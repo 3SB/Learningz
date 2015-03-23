@@ -172,6 +172,7 @@ Table of Contents
 * [Making Jinja and Handlebars play nice](https://coderwall.com/p/fy6vka/how-jinja2-and-handlebars-js-can-co-exist)
 * [D3 plus - easier interactive charts](http://d3plus.org/)
 * [Atom editor moves away from react.js](https://github.com/atom/atom/pull/5624)
+* [Jquery `.on` method not working with dynamically added elements](http://stackoverflow.com/questions/15090942/jquery-on-method-not-working-on-dynamic-content)
 
 ## CSS 
 
