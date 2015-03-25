@@ -171,10 +171,8 @@ Table of Contents
 * [D3 tutorials - for absolute beginners](http://chimera.labs.oreilly.com/books/1230000000345/index.html)
 * [Using handlebars](http://jsfiddle.net/raghothams/BQ3SD/5/)
 * [Making Jinja and Handlebars play nice](https://coderwall.com/p/fy6vka/how-jinja2-and-handlebars-js-can-co-exist)
-* [D3 plus - easier interactive charts](http://d3plus.org/)
 * [Atom editor moves away from react.js](https://github.com/atom/atom/pull/5624)
 * [Jquery `.on` method not working with dynamically added elements](http://stackoverflow.com/questions/15090942/jquery-on-method-not-working-on-dynamic-content)
-* [Texture patterns](http://riccardoscalco.github.io/textures/)
 
 ## CSS 
 
@@ -309,6 +307,11 @@ Table of Contents
 ### Course material
 
 * [Introduction to programming with Haskell (CMI)](http://www.cmi.ac.in/~kumar/prog2012/)
+
+### Javascript
+
+* [Texture patterns](http://riccardoscalco.github.io/textures/)
+* [D3 plus - easier interactive charts](http://d3plus.org/)
 
 ## Talks
 
