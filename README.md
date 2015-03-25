@@ -48,6 +48,7 @@ Table of Contents
   * [Python](#python-1)
   * [Data](#data)
   * [Course material](#course-material)
+  * [Javascript](#javascript-1)
 * [Talks](#talks)
 * [RFCs](#rfcs)
 * [Clojure](#clojure)
@@ -58,8 +59,6 @@ Table of Contents
 * [.NET](#net)
 * [F#](#f)
 * [Haskell](#haskell)
-
-
 
 ---
 
