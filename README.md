@@ -146,6 +146,7 @@ Table of Contents
 * [SQLAlchemy bulk delete after using `.filter_by()`](http://stackoverflow.com/questions/19243964/python-sql-alchemy-cascade-delete)
 * [Distinct in SQLAlchemy](http://stackoverflow.com/questions/2175355/selecting-distinct-column-values-in-sqlalchemy-elixir)
 * [Column alias SQLAlchemy](http://stackoverflow.com/questions/9187530/using-alias-for-select-as-in-sqlalchemy)
+* [Using Except in SQLAlchemy](http://stackoverflow.com/questions/20024744/how-to-union-two-subqueries-in-sqlalchemy-and-postgresql)
 
 ### Reflection
 
