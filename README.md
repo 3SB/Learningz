@@ -40,7 +40,7 @@ Table of Contents
 * [reStructuredText](#restructuredtext)
 * [Acme](#acme)
 * [LaTeX](#latex)
-* [Postgres related](#postgres-related)
+* [Postgres](#postgres)
 * [Bootstrap 3](#bootstrap-3)
 * [Ansible](#ansible)
 * [Linux](#linux)
@@ -275,9 +275,11 @@ Table of Contents
 * [Quick tutorial for the beamer package](http://heather.cs.ucdavis.edu/~matloff/beamer.html)
 * [Beautiful typography in LaTeX](http://tex.stackexchange.com/questions/1319/showcase-of-beautiful-typography-done-in-tex-friends/24719#24719)
 
-## Postgres related
+## Postgres
 
 * [Using Dict cursors in psycopg2](http://initd.org/psycopg/docs/extras.html#dictionary-like-cursor)
+* [Using `COPY`](http://stackoverflow.com/questions/2987433/how-to-import-csv-file-data-into-a-postgres-table)
+* [Using `COPY` with auto increment fields](http://stackoverflow.com/questions/7920777/postgresql-copy-command-generate-primary-key-id)
 
 ## Bootstrap 3
 
