@@ -35,6 +35,7 @@ Table of Contents
   * [SVN migration to Git](#svn-migration-to-git)
   * [Git Bash](#git-bash)
   * [Setting up Git locally](#setting-up-git-locally)
+  * [Git from the inside out](https://codewords.recurse.com/issues/two/git-from-the-inside-out)
 * [Networking concepts](#networking-concepts)
 * [SQL](#sql)
 * [VIM](#vim)
@@ -100,6 +101,7 @@ Table of Contents
 * [Why care? Part-2: Transformations](http://miles.no/blogg/why-should-we-care-about-functional-programming-part-2-transformations)
 * [Why care? Part-3: Type Inference](http://miles.no/blogg/why-should-we-care-about-functional-programming-part-3-type-inference)
 * [Type inference vs Dynamic typing](http://herbsutter.com/2008/06/20/type-inference-vs-staticdynamic-typing/)
+* [Wonderful explanation of Y-combinator using JS](http://stackoverflow.com/a/6713431)
 
 ## Gaming
 
