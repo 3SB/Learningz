@@ -35,7 +35,6 @@ Table of Contents
   * [SVN migration to Git](#svn-migration-to-git)
   * [Git Bash](#git-bash)
   * [Setting up Git locally](#setting-up-git-locally)
-  * [Git from the inside out](https://codewords.recurse.com/issues/two/git-from-the-inside-out)
 * [Networking concepts](#networking-concepts)
 * [SQL](#sql)
 * [VIM](#vim)
@@ -231,6 +230,7 @@ Table of Contents
 * [Removing a git submodule](http://davidwalsh.name/git-remove-submodule)
 * [Git for intermediate users](https://www.andyjeffries.co.uk/25-tips-for-intermediate-git-users/) 
 * [Most common pitfalls and their solutions](http://41j.com/blog/2015/02/common-git-screwupsquestions-solutions/)
+* [Git from the inside out](https://codewords.recurse.com/issues/two/git-from-the-inside-out)
  
 ### SVN migration to Git
 
