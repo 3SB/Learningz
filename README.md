@@ -86,6 +86,10 @@ Table of Contents
 
 * [Mounting a image to a folder instead of `/volumes`](http://apple.stackexchange.com/questions/23522/how-do-i-mount-a-sparsebundle-to-a-folder-rather-than-an-image)
 
+## Amazon Web Services (AWS)
+
+* [What to do when you lose your key pair](http://blog.celingest.com/en/2013/11/14/replace-lost-keypair-ec2-instance/)
+
 ## Functional Programming
 
 * [Why care? Part-1: Immutability](http://miles.no/blogg/why-care-about-functional-programming-part-1-immutability)
