@@ -1,6 +1,7 @@
 # Learningz
 > A place to store all our learnings
 
+
 Table of Contents
 =================
 
@@ -9,6 +10,7 @@ Table of Contents
 * [Life](#life)
 * [Math](#math)
 * [OSX](#osx)
+* [Amazon Web Services (AWS)](#amazon-web-services-aws)
 * [Functional Programming](#functional-programming)
 * [Gaming](#gaming)
 * [Algorithms](#algorithms)
@@ -59,6 +61,7 @@ Table of Contents
 * [.NET](#net)
 * [F#](#f)
 * [Haskell](#haskell)
+
 
 ---
 
