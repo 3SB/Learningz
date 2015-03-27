@@ -89,6 +89,7 @@ Table of Contents
 ## Amazon Web Services (AWS)
 
 * [What to do when you lose your key pair](http://blog.celingest.com/en/2013/11/14/replace-lost-keypair-ec2-instance/)
+* [Mount failed when recovering key pair](http://stackoverflow.com/questions/22943142/mounting-a-dataset-from-aws)
 
 ## Functional Programming
 
