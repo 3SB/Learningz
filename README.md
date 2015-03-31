@@ -332,6 +332,7 @@ Table of Contents
 
 * [Texture patterns](http://riccardoscalco.github.io/textures/)
 * [D3 plus - easier interactive charts](http://d3plus.org/)
+* [Highlightjs - Easiest way to highlight code on the front end](https://highlightjs.org/)
 
 ## Talks
 
