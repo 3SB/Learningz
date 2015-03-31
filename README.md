@@ -207,6 +207,7 @@ Table of Contents
 * [Parsing `ls`](http://mywiki.wooledge.org/ParsingLs)
 * [Flush bash history after each command](http://northernmost.org/blog/flush-bash_history-after-each-command/comment-page-1/index.html#comment-640)
 * [Parameter operations in Bash](http://mywiki.wooledge.org/BashSheet#Parameter_Operations)
+* [Stop using `tail -f`](http://www.brianstorti.com/stop-using-tail/)
 
 ## CSharp
 
