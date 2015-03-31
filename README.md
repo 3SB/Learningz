@@ -5,6 +5,7 @@
 Table of Contents
 =================
 
+* [Best Practices](#best-practices)
 * [Interesting slide decks to learn from](#interesting-slide-decks-to-learn-from)
 * [Typography](#typography)
 * [Life](#life)
@@ -64,6 +65,10 @@ Table of Contents
 
 
 ---
+
+## Best Practices
+
+* [Choose Boring Technology](http://mcfunley.com/choose-boring-technology)
 
 ## Interesting slide decks to learn from 
 
