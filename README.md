@@ -161,7 +161,7 @@ Table of Contents
 * [Distinct in SQLAlchemy](http://stackoverflow.com/questions/2175355/selecting-distinct-column-values-in-sqlalchemy-elixir)
 * [Column alias SQLAlchemy](http://stackoverflow.com/questions/9187530/using-alias-for-select-as-in-sqlalchemy)
 * [Using Except in SQLAlchemy](http://stackoverflow.com/questions/20024744/how-to-union-two-subqueries-in-sqlalchemy-and-postgresql)
-* [Using bcrypt to verify passwords](http://stackoverflow.com/questions/9559549/how-to-store-and-compare-password-in-db-using-py-bcrypt)
+* [Using bcrypt to verify passwords](http://www.mindrot.org/projects/py-bcrypt/)
 
 ### Reflection
 
