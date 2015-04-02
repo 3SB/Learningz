@@ -124,6 +124,7 @@ Table of Contents
 
 * [Installing a new java version](http://openjdk.java.net/install/)
 * [Switching java version](https://www.digitalocean.com/community/tutorials/how-to-install-java-on-ubuntu-with-apt-get)
+* [Run a script at startup](http://superuser.com/a/653262/28523)
  
 ## SSH
 
