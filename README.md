@@ -89,6 +89,7 @@ Table of Contents
 ## Math
 
 * [Pi day twitter collection](https://twitter.com/ainvvy/timelines/576613862746673152)
+* [Math for computer science](http://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-042j-mathematics-for-computer-science-fall-2010/video-lectures/)
 
 ## OSX 
 
