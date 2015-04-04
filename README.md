@@ -107,6 +107,7 @@ Table of Contents
 * [Why care? Part-3: Type Inference](http://miles.no/blogg/why-should-we-care-about-functional-programming-part-3-type-inference)
 * [Type inference vs Dynamic typing](http://herbsutter.com/2008/06/20/type-inference-vs-staticdynamic-typing/)
 * [Wonderful explanation of Y-combinator using JS](http://stackoverflow.com/a/6713431)
+* [Functional Programming with python](https://codewords.recurse.com/issues/one/an-introduction-to-functional-programming)
 
 ## Gaming
 
