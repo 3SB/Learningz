@@ -384,6 +384,7 @@ Table of Contents
 * [`case class`es](http://www.scala-lang.org/old/node/107)
 * [`implicit` parameters](http://daily-scala.blogspot.in/2010/04/implicit-parameters.html)
 * [Json4s throws `unknown error` even on simple parsing](http://stackoverflow.com/questions/14661811/json4s-unknown-error)
+* [Quick tips to using `sbt`](http://stackoverflow.com/a/4484170/235055)
 
 ## .NET
 
