@@ -383,6 +383,7 @@ Table of Contents
 * [16 months of FP with Scala](http://www.vasinov.com/blog/16-months-of-functional-programming/)
 * [`case class`es](http://www.scala-lang.org/old/node/107)
 * [`implicit` parameters](http://daily-scala.blogspot.in/2010/04/implicit-parameters.html)
+* [Json4s throws `unknown error` even on simple parsing](http://stackoverflow.com/questions/14661811/json4s-unknown-error)
 
 ## .NET
 
