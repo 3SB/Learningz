@@ -382,6 +382,7 @@ Table of Contents
 * [Why Scala](https://www.youtube.com/watch?v=LH75sJAR0hc)
 * [16 months of FP with Scala](http://www.vasinov.com/blog/16-months-of-functional-programming/)
 * [`case class`es](http://www.scala-lang.org/old/node/107)
+* [`implicit` parameters](http://daily-scala.blogspot.in/2010/04/implicit-parameters.html)
 
 ## .NET
 
