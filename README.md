@@ -44,6 +44,7 @@ Table of Contents
 * [Acme](#acme)
 * [LaTeX](#latex)
 * [Postgres](#postgres)
+* [SQLite](#sqlite)
 * [Bootstrap 3](#bootstrap-3)
 * [Ansible](#ansible)
 * [Linux](#linux)
@@ -303,6 +304,10 @@ Table of Contents
 * [Using `COPY`](http://stackoverflow.com/questions/2987433/how-to-import-csv-file-data-into-a-postgres-table)
 * [Using `COPY` with auto increment fields](http://stackoverflow.com/questions/7920777/postgresql-copy-command-generate-primary-key-id)
 * [Installing on a new server](https://help.ubuntu.com/community/PostgreSQL)
+
+## SQLite
+
+* [Good reasons to use SQLite](http://charlesleifer.com/blog/sqlite-small-fast-reliable-choose-any-three-/)
 
 ## Bootstrap 3
 
