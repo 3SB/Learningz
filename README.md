@@ -369,6 +369,7 @@ Table of Contents
 * [Ignore exceptions](http://stackoverflow.com/questions/15715546/clojure-how-to-ignore-exceptions-that-may-be-thrown-from-an-expression)
 * [Iterate over the `kv`'s in a map](http://stackoverflow.com/questions/6685916/how-to-iterate-over-map-keys-and-values)
 * [Configuration files in Clojure](http://stackoverflow.com/questions/7777882/loading-configuration-file-in-clojure-as-data-structure)
+* [A simple bot based on Markov chains in Clojure](http://howistart.org/posts/clojure/1/)
 
 ### Clojure-CLR
 
