@@ -95,6 +95,7 @@ Table of Contents
 ## OSX 
 
 * [Mounting a image to a folder instead of `/volumes`](http://apple.stackexchange.com/questions/23522/how-do-i-mount-a-sparsebundle-to-a-folder-rather-than-an-image)
+* [Deleting files in single user mode on OSX](http://stackoverflow.com/questions/25929701/delete-file-from-desktop-in-single-user-mode-osx)
 
 ## Amazon Web Services (AWS)
 
