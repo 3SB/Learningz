@@ -29,6 +29,7 @@ Table of Contents
 * [Google Maps](#google-maps)
 * [Photoshop](#photoshop)
 * [Shell](#shell)
+* [Java](#java)
 * [CSharp](#csharp)
 * [Makefiles](#makefiles)
 * [Svn](#svn)
