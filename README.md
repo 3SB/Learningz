@@ -226,6 +226,7 @@ Table of Contents
 * [Can I read from a SQLite DB embedded in a DLL?](http://stackoverflow.com/questions/791198/how-can-i-embed-a-sqlite-database-in-a-net-dll-and-then-use-it-from-c)
 * [Unserstanding and developing web services (in C#)](http://programmers.stackexchange.com/questions/121801/understanding-and-developing-web-services)
 * [How and why to set up a C# build machine?](http://stackoverflow.com/questions/616149/how-and-why-do-i-set-up-a-c-sharp-build-machine)
+* [Setting up a simple build with MSBuild](http://www.infoq.com/articles/MSBuild-1)
 
 ## Makefiles
 
