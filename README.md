@@ -221,6 +221,10 @@ Table of Contents
 * [Parameter operations in Bash](http://mywiki.wooledge.org/BashSheet#Parameter_Operations)
 * [Stop using `tail -f`](http://www.brianstorti.com/stop-using-tail/)
 
+## Java
+
+* [Tomcat not working even after setting `JAVA_HOME` on Windows](http://stackoverflow.com/a/28558051/235055)
+
 ## CSharp
 
 * [Can I read from a SQLite DB embedded in a DLL?](http://stackoverflow.com/questions/791198/how-can-i-embed-a-sqlite-database-in-a-net-dll-and-then-use-it-from-c)
