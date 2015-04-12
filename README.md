@@ -10,6 +10,7 @@ Table of Contents
 * [Typography](#typography)
 * [Life](#life)
 * [Math](#math)
+* [CS Basics](#cs-basics)
 * [OSX](#osx)
 * [Amazon Web Services (AWS)](#amazon-web-services-aws)
 * [Functional Programming](#functional-programming)
@@ -50,7 +51,6 @@ Table of Contents
 * [Ansible](#ansible)
 * [Linux](#linux)
 * [Resources](#resources)
-  * [CS Basics](#cs-basics) 
   * [Python](#python-1)
   * [Data](#data)
   * [Course material](#course-material)
@@ -93,6 +93,9 @@ Table of Contents
 
 * [Pi day twitter collection](https://twitter.com/ainvvy/timelines/576613862746673152)
 * [Math for computer science](http://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-042j-mathematics-for-computer-science-fall-2010/video-lectures/)
+
+## CS basics
+* [What Every Programmer Should Know About Memory](https://people.freebsd.org/~lstewart/articles/cpumemory.pdf)
 
 ## OSX 
 
@@ -333,9 +336,6 @@ Table of Contents
 * [daemon](http://www.freedesktop.org/software/systemd/man/daemon.html)
 
 ## Resources
-
-### CS basics
-* [What Every Programmer Should Know About Memory](https://people.freebsd.org/~lstewart/articles/cpumemory.pdf)
 
 ### Python
 
