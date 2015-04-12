@@ -50,6 +50,7 @@ Table of Contents
 * [Ansible](#ansible)
 * [Linux](#linux)
 * [Resources](#resources)
+  * [CS Basics](#cs-basics) 
   * [Python](#python-1)
   * [Data](#data)
   * [Course material](#course-material)
