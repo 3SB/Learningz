@@ -333,6 +333,9 @@ Table of Contents
 
 ## Resources
 
+### CS basics
+* [What Every Programmer Should Know About Memory](https://people.freebsd.org/~lstewart/articles/cpumemory.pdf)
+
 ### Python
 
 * [Cleansing data on web pages](https://github.com/grangier/python-goose)
