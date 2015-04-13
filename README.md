@@ -421,6 +421,9 @@ Table of Contents
 
 * [Learning Haskell - Where to start](http://bitemyapp.com/posts/2014-12-31-functional-education.html)
 
+## Elastic Search
+
+* [Learning Elastic Search](http://www.slideshare.net/gnurag/workshop-learning-elasticsearch)
 ---
 
 TOC Credits to [gh-md-toc](https://github.com/ekalinin/github-markdown-toc)
