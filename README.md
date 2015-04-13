@@ -66,6 +66,7 @@ Table of Contents
 * [F#](#f)
 * [Haskell](#haskell)
 * [Elastic Search](#elastic-search)
+* [Offline IMAP](#offline-imap)
 
 
 ---
@@ -425,6 +426,14 @@ Table of Contents
 ## Elastic Search
 
 * [Learning Elastic Search](http://www.slideshare.net/gnurag/workshop-learning-elasticsearch)
+
+## Offline IMAP
+
+* [Basic configuration](http://www.techrepublic.com/blog/linux-and-open-source/why-and-how-you-should-start-using-offlineimap-now/)
+* [Steve losh on Offline IMAP](http://stevelosh.com/blog/2012/10/the-homely-mutt/#getting-email)
+* [Selective syncing](http://docs.offlineimap.org/en/latest/nametrans.html)
+* [SSL shiz on OSX](http://www.reddit.com/r/emacs/comments/2va23g/mu4e_issues_offlineimap_sync_not_working/)
+* [`--dry-run` throwing unwanted errors](https://github.com/OfflineIMAP/offlineimap/issues/52)
 
 ---
 
