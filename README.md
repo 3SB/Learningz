@@ -244,6 +244,7 @@ Table of Contents
 * [Unserstanding and developing web services (in C#)](http://programmers.stackexchange.com/questions/121801/understanding-and-developing-web-services)
 * [How and why to set up a C# build machine?](http://stackoverflow.com/questions/616149/how-and-why-do-i-set-up-a-c-sharp-build-machine)
 * [Setting up a simple build with MSBuild](http://www.infoq.com/articles/MSBuild-1)
+* [10 Good practices for ASP MVC Development](http://www.codemag.com/Article/1405071)
 
 ## Makefiles
 
