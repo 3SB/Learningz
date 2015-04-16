@@ -11,6 +11,7 @@ Table of Contents
 * [Life](#life)
 * [Math](#math)
 * [CS Basics](#cs-basics)
+* [DevOps](#devops)
 * [OSX](#osx)
 * [Amazon Web Services (AWS)](#amazon-web-services-aws)
 * [Functional Programming](#functional-programming)
@@ -98,6 +99,9 @@ Table of Contents
 
 ## CS basics
 * [What Every Programmer Should Know About Memory](https://people.freebsd.org/~lstewart/articles/cpumemory.pdf)
+
+## DevOps
+* [What does StackExchange run?](http://meta.stackexchange.com/a/10370)
 
 ## OSX 
 
