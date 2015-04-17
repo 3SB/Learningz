@@ -243,13 +243,14 @@ Table of Contents
 * [Introduction to the CLR](https://github.com/dotnet/coreclr/blob/master/Documentation/intro-to-clr.md)
 * [Why I left the .Net framework](http://blog.jonathanoliver.com/why-i-left-dot-net/)
 
-### C\#
+### CSharp
 
 * [Can I read from a SQLite DB embedded in a DLL?](http://stackoverflow.com/questions/791198/how-can-i-embed-a-sqlite-database-in-a-net-dll-and-then-use-it-from-c)
 * [Unserstanding and developing web services (in C#)](http://programmers.stackexchange.com/questions/121801/understanding-and-developing-web-services)
 * [How and why to set up a C# build machine?](http://stackoverflow.com/questions/616149/how-and-why-do-i-set-up-a-c-sharp-build-machine)
 * [Setting up a simple build with MSBuild](http://www.infoq.com/articles/MSBuild-1)
 * [10 Good practices for ASP MVC Development](http://www.codemag.com/Article/1405071)
+* [Extension methods](http://weblogs.asp.net/scottgu/new-orcas-language-feature-extension-methods)
 
 ### Mono .NET
 
