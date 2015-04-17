@@ -375,7 +375,7 @@ Table of Contents
 * [D3 plus - easier interactive charts](http://d3plus.org/)
 * [Highlightjs - Easiest way to highlight code on the front end](https://highlightjs.org/)
 
-### C\#
+### CSharp
 * [Simple REST and HTTP API Client for .NET](https://github.com/kato-im/RestSharp)
 
 ## Talks
