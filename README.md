@@ -238,7 +238,12 @@ Table of Contents
 
 * [Tomcat not working even after setting `JAVA_HOME` on Windows](http://stackoverflow.com/a/28558051/235055)
 
-## CSharp
+## .NET
+
+* [Introduction to the CLR](https://github.com/dotnet/coreclr/blob/master/Documentation/intro-to-clr.md)
+* [Why I left the .Net framework](http://blog.jonathanoliver.com/why-i-left-dot-net/)
+
+### C\#
 
 * [Can I read from a SQLite DB embedded in a DLL?](http://stackoverflow.com/questions/791198/how-can-i-embed-a-sqlite-database-in-a-net-dll-and-then-use-it-from-c)
 * [Unserstanding and developing web services (in C#)](http://programmers.stackexchange.com/questions/121801/understanding-and-developing-web-services)
@@ -370,6 +375,9 @@ Table of Contents
 * [D3 plus - easier interactive charts](http://d3plus.org/)
 * [Highlightjs - Easiest way to highlight code on the front end](https://highlightjs.org/)
 
+### C\#
+* [Simple REST and HTTP API Client for .NET](https://github.com/kato-im/RestSharp)
+
 ## Talks
 
 * [The value of values - Rich Hickey](https://www.youtube.com/watch?v=-6BsiVyC1kM)
@@ -419,12 +427,6 @@ Table of Contents
 * [Json4s throws `unknown error` even on simple parsing](http://stackoverflow.com/questions/14661811/json4s-unknown-error)
 * [Quick tips to using `sbt`](http://stackoverflow.com/a/4484170/235055)
 * [Avention on why they picked scala](https://softwarecorner.wordpress.com/2014/12/31/why-scala/)
-
-## .NET
-
-* [Simple REST and HTTP API Client for .NET](https://github.com/kato-im/RestSharp)
-* [Introduction to the CLR](https://github.com/dotnet/coreclr/blob/master/Documentation/intro-to-clr.md)
-* [Why I left the .Net framework](http://blog.jonathanoliver.com/why-i-left-dot-net/)
 
 ## F\# 
 
