@@ -246,6 +246,12 @@ Table of Contents
 * [Setting up a simple build with MSBuild](http://www.infoq.com/articles/MSBuild-1)
 * [10 Good practices for ASP MVC Development](http://www.codemag.com/Article/1405071)
 
+### Mono .NET
+
+* [ASP MVC 5 doesn't work when adding parameters to action](http://stackoverflow.com/questions/21827225/xamarin-asp-mvc-4-action-with-parameters-not-working)
+* [Downgrading to ASP MVC 4 from 4](http://curtis.schlak.com/2013/09/29/setup-asp-net-mvc-4-on-monodevelop.html)
+* [Installing specific version of package in Xamarin and MonoDevelop](http://stackoverflow.com/questions/20802905/is-there-a-package-manager-console-in-xamarin-studio)
+
 ## Makefiles
 
 * [Makefile basics](https://gist.github.com/isaacs/62a2d1825d04437c6f08)
