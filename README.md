@@ -434,6 +434,7 @@ Table of Contents
 * [Json4s throws `unknown error` even on simple parsing](http://stackoverflow.com/questions/14661811/json4s-unknown-error)
 * [Quick tips to using `sbt`](http://stackoverflow.com/a/4484170/235055)
 * [Avention on why they picked scala](https://softwarecorner.wordpress.com/2014/12/31/why-scala/)
+* [Comparing JSON libraries](http://engineering.ooyala.com/blog/comparing-scala-json-libraries)
 
 ## F\# 
 
