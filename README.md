@@ -253,6 +253,7 @@ Table of Contents
 * [Setting up a simple build with MSBuild](http://www.infoq.com/articles/MSBuild-1)
 * [10 Good practices for ASP MVC Development](http://www.codemag.com/Article/1405071)
 * [Extension methods](http://weblogs.asp.net/scottgu/new-orcas-language-feature-extension-methods)
+* [Implementing basic drag and drop into a form](http://www.jonasjohn.de/snippets/csharp/drag-and-drop-example.htm)
 
 ### Mono .NET
 
