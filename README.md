@@ -382,6 +382,7 @@ Table of Contents
 
 ### CSharp
 * [Simple REST and HTTP API Client for .NET](https://github.com/kato-im/RestSharp)
+* [Json to C# class converter](http://json2csharp.com/)
 
 ## Talks
 
