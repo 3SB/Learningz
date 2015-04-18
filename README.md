@@ -337,6 +337,7 @@ Table of Contents
 * [Using `COPY`](http://stackoverflow.com/questions/2987433/how-to-import-csv-file-data-into-a-postgres-table)
 * [Using `COPY` with auto increment fields](http://stackoverflow.com/questions/7920777/postgresql-copy-command-generate-primary-key-id)
 * [Installing on a new server](https://help.ubuntu.com/community/PostgreSQL)
+* [`DESCRIBE TABLE` equivalent on `psql`](http://stackoverflow.com/a/109334/235055)
 
 ## SQLite
 
