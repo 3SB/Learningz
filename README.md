@@ -181,6 +181,7 @@ Table of Contents
 * [Using bcrypt to verify passwords](http://www.mindrot.org/projects/py-bcrypt/)
 * [Serving Flask via uwsgi and nginx](https://www.digitalocean.com/community/tutorials/how-to-serve-flask-applications-with-uwsgi-and-nginx-on-ubuntu-14-04)
 * [Everything about the `string` `%` and `.format()`](http://pyformat.info/) 
+* [Adding a label to a Gmail email with `imaplib`](http://stackoverflow.com/a/14189724)
 
 ### Reflection
 
