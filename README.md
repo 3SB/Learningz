@@ -191,6 +191,8 @@ Table of Contents
 
 ### Python and Windows
 * [Making PyWin32 work with virtualenvs](http://www.activestate.com/blog/2010/12/tips-activepython-pywin32-and-virtualenv)
+* [`csv.writer` adding an extra `^M` character to the end of each line in windows](http://stackoverflow.com/questions/3191528/csv-in-python-adding-extra-carriage-return)
+
 
 ### IPython
 * [Hide toolbar, menubar by default](http://stackoverflow.com/questions/23540870/ipython-notebook-how-to-toggle-header-invisible-by-default)
