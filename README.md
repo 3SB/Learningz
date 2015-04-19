@@ -452,7 +452,12 @@ Table of Contents
 
 * [Learning Elastic Search](http://www.slideshare.net/gnurag/workshop-learning-elasticsearch)
 
-## Offline IMAP
+## IMAP
+
+* [GMail IMAP Extensions](https://developers.google.com/gmail/imap_extensions)
+* [Using `X-GM-RAW` to search email](http://pseudofish.com/rethinking-how-i-handle-email.html)
+
+### OfflineIMAP
 
 * [Basic configuration](http://www.techrepublic.com/blog/linux-and-open-source/why-and-how-you-should-start-using-offlineimap-now/)
 * [Steve losh on Offline IMAP](http://stevelosh.com/blog/2012/10/the-homely-mutt/#getting-email)
