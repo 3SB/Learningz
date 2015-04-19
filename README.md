@@ -240,6 +240,7 @@ Table of Contents
 ## Java
 
 * [Tomcat not working even after setting `JAVA_HOME` on Windows](http://stackoverflow.com/a/28558051/235055)
+* [JVM Internals](http://blog.jamesdbloom.com/JVMInternals.html)
 
 ## .NET
 
