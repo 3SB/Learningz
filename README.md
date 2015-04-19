@@ -10,7 +10,7 @@ Table of Contents
 * [Typography](#typography)
 * [Life](#life)
 * [Math](#math)
-* [CS Basics](#cs-basics)
+* [CS basics](#cs-basics)
 * [DevOps](#devops)
 * [OSX](#osx)
 * [Amazon Web Services (AWS)](#amazon-web-services-aws)
@@ -32,7 +32,9 @@ Table of Contents
 * [Photoshop](#photoshop)
 * [Shell](#shell)
 * [Java](#java)
-* [CSharp](#csharp)
+* [.NET](#net)
+  * [CSharp](#csharp)
+  * [Mono .NET](#mono-net)
 * [Makefiles](#makefiles)
 * [Svn](#svn)
 * [Git](#git)
@@ -56,6 +58,7 @@ Table of Contents
   * [Data](#data)
   * [Course material](#course-material)
   * [Javascript](#javascript-1)
+  * [CSharp](#csharp-1)
 * [Talks](#talks)
 * [RFCs](#rfcs)
 * [Clojure](#clojure)
@@ -63,12 +66,11 @@ Table of Contents
   * [Clojurescript](#clojurescript)
 * [Scheme](#scheme)
 * [Scala](#scala)
-* [.NET](#net)
 * [F#](#f)
 * [Haskell](#haskell)
 * [Elastic Search](#elastic-search)
-* [Offline IMAP](#offline-imap)
-
+* [IMAP](#imap)
+  * [OfflineIMAP](#offlineimap)
 
 ---
 
