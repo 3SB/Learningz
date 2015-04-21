@@ -463,6 +463,7 @@ Table of Contents
 ## IMAP
 
 * [GMail IMAP Extensions](https://developers.google.com/gmail/imap_extensions)
+* [Using pythion's `imaplib` search for mails with a given `TO` address](http://stackoverflow.com/questions/10563218/python-imap-search-from-or-to-designated-email-address)
 
 ### OfflineIMAP
 
