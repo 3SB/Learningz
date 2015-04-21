@@ -250,6 +250,11 @@ Table of Contents
 * [Introduction to the CLR](https://github.com/dotnet/coreclr/blob/master/Documentation/intro-to-clr.md)
 * [Why I left the .Net framework](http://blog.jonathanoliver.com/why-i-left-dot-net/)
 
+### ASP .NET MVC 4
+
+* [Getting started - A very simple guide](http://www.asp.net/mvc/overview/older-versions/getting-started-with-aspnet-mvc4/intro-to-aspnet-mvc-4)
+* [Pluralsight course on writing ASP MVC 4 applications](http://www.pluralsight.com/training/player?author=scott-allen&name=mvc4-building-m1-intro&mode=live&clip=0&course=mvc4-building)
+
 ### CSharp
 
 * [Can I read from a SQLite DB embedded in a DLL?](http://stackoverflow.com/questions/791198/how-can-i-embed-a-sqlite-database-in-a-net-dll-and-then-use-it-from-c)
