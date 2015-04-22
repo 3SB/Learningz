@@ -353,6 +353,8 @@ Table of Contents
 * [Using `COPY` with auto increment fields](http://stackoverflow.com/questions/7920777/postgresql-copy-command-generate-primary-key-id)
 * [Installing on a new server](https://help.ubuntu.com/community/PostgreSQL)
 * [`DESCRIBE TABLE` equivalent on `psql`](http://stackoverflow.com/a/109334/235055)
+* [Opening postgres port for remote access](http://stackoverflow.com/questions/6150738/cannot-connect-to-postgres-from-remote-host)
+* [Enabling access via remote to all databases](http://dba.stackexchange.com/questions/48152/connecting-to-an-external-database-with-pgadmin-iii)
 
 ## SQLite
 
