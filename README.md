@@ -266,6 +266,7 @@ Table of Contents
 * [Extension methods](http://weblogs.asp.net/scottgu/new-orcas-language-feature-extension-methods)
 * [Implementing basic drag and drop into a form](http://www.jonasjohn.de/snippets/csharp/drag-and-drop-example.htm)
 * [Convert array of `byte`s to `string`](http://stackoverflow.com/questions/1003275/how-to-convert-byte-to-string)
+* [`IEnumerable` vs `ICollection` vs `IList`](http://www.c-sharpcorner.com/UploadFile/78607b/difference-between-ienumerable-icollection-and-ilist-interf/)
 
 ### Mono .NET
 
