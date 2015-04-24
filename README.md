@@ -15,6 +15,7 @@ Table of Contents
 * [OSX](#osx)
 * [Amazon Web Services (AWS)](#amazon-web-services-aws)
 * [Functional Programming](#functional-programming)
+* [Gmail](#gmail)
 * [Gaming](#gaming)
 * [Algorithms](#algorithms)
 * [Signals](#signals)
@@ -123,6 +124,10 @@ Table of Contents
 * [Type inference vs Dynamic typing](http://herbsutter.com/2008/06/20/type-inference-vs-staticdynamic-typing/)
 * [Wonderful explanation of Y-combinator using JS](http://stackoverflow.com/a/6713431)
 * [Functional Programming with python](https://codewords.recurse.com/issues/one/an-introduction-to-functional-programming)
+
+## Gmail
+
+* [Gmail's idea of **Less Secure** apps and what it might actually mean](http://security.stackexchange.com/questions/66025/what-are-the-dangers-of-allowing-less-secure-apps-to-access-my-google-account)
 
 ## Gaming
 
