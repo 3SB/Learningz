@@ -11,6 +11,7 @@ Table of Contents
 * [Life](#life)
 * [Math](#math)
 * [CS basics](#cs-basics)
+* [Databases](#databases)
 * [DevOps](#devops)
 * [OSX](#osx)
 * [Amazon Web Services (AWS)](#amazon-web-services-aws)
@@ -102,6 +103,10 @@ Table of Contents
 
 ## CS basics
 * [What Every Programmer Should Know About Memory](https://people.freebsd.org/~lstewart/articles/cpumemory.pdf)
+
+## Databases
+
+* [Tiny into to db systems](http://blog.dancrisan.com/a-tiny-intro-to-database-systems)
 
 ## DevOps
 * [What does StackExchange run?](http://meta.stackexchange.com/a/10370)
