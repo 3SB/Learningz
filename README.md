@@ -191,6 +191,7 @@ Table of Contents
 * [Adding a label to a Gmail email with `imaplib`](http://stackoverflow.com/a/14189724)
 * [Using `X-GM-RAW` to search email](http://pseudofish.com/rethinking-how-i-handle-email.html)
 * [Search for mails with a given `TO` address](http://stackoverflow.com/questions/10563218/python-imap-search-from-or-to-designated-email-address)
+* [Nifty python tricks](https://freepythontips.wordpress.com/2015/04/19/nifty-python-tricks/)
 
 ### Reflection
 
