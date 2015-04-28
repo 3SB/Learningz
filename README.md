@@ -63,6 +63,7 @@ Table of Contents
   * [CSharp](#csharp-1)
 * [Talks](#talks)
 * [RFCs](#rfcs)
+* [Racket](#racket)
 * [Clojure](#clojure)
   * [Clojure-CLR](#clojure-clr)
   * [Clojurescript](#clojurescript)
@@ -421,6 +422,10 @@ Table of Contents
 
 * [JSON](http://tools.ietf.org/html/rfc7159)
 * [Foo and Bar](https://tools.ietf.org/html/rfc3092)
+
+## Racket
+
+* [User defined `struct`s. Read section 5.5 for comparing `struct`s](http://docs.racket-lang.org/guide/define-struct.html)
 
 ## Clojure
 
