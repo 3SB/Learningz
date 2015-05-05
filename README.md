@@ -13,6 +13,7 @@ Table of Contents
 * [CS basics](#cs-basics)
 * [Databases](#databases)
 * [DevOps](#devops)
+* [Virtual Box](#virtual-box)
 * [OSX](#osx)
 * [Amazon Web Services (AWS)](#amazon-web-services-aws)
 * [Functional Programming](#functional-programming)
@@ -111,6 +112,9 @@ Table of Contents
 
 ## DevOps
 * [What does StackExchange run?](http://meta.stackexchange.com/a/10370)
+
+## Virtual Box
+* [Manually mounting shared folders on a windows VM](https://www.virtualbox.org/manual/ch04.html#sf_mount_manual)
 
 ## OSX 
 
