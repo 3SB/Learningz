@@ -256,6 +256,7 @@ Table of Contents
 * [Flush bash history after each command](http://northernmost.org/blog/flush-bash_history-after-each-command/comment-page-1/index.html#comment-640)
 * [Parameter operations in Bash](http://mywiki.wooledge.org/BashSheet#Parameter_Operations)
 * [Stop using `tail -f`](http://www.brianstorti.com/stop-using-tail/)
+* [Why GNU Grep is fast](https://lists.freebsd.org/pipermail/freebsd-current/2010-August/019310.html)
 
 ## Java
 
