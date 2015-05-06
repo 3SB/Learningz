@@ -230,6 +230,7 @@ Table of Contents
 * [Making Jinja and Handlebars play nice](https://coderwall.com/p/fy6vka/how-jinja2-and-handlebars-js-can-co-exist)
 * [Atom editor moves away from react.js](https://github.com/atom/atom/pull/5624)
 * [Jquery `.on` method not working with dynamically added elements](http://stackoverflow.com/questions/15090942/jquery-on-method-not-working-on-dynamic-content)
+* [Intro to Functional programming in JS](https://medium.com/functional-javascript/introduction-to-functional-javascript-45a9dca6c64a)
 
 ## CSS 
 
