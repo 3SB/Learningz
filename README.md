@@ -479,6 +479,7 @@ Table of Contents
 * [Why F#](http://fsharpforfunandprofit.com/why-use-fsharp/)
 * [Why you should learn F#](http://www.codemag.com/Article/1203081)
 * [Simple F# Open Source projects to get started](http://stackoverflow.com/questions/383848/f-open-source-projects)
+* [F# Workshop](http://www.fsharpworkshop.com/)
 
 ## Haskell
 
