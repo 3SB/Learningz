@@ -377,6 +377,7 @@ Table of Contents
 * [`DESCRIBE TABLE` equivalent on `psql`](http://stackoverflow.com/a/109334/235055)
 * [Opening postgres port for remote access](http://stackoverflow.com/questions/6150738/cannot-connect-to-postgres-from-remote-host)
 * [Enabling access via remote to all databases](http://dba.stackexchange.com/questions/48152/connecting-to-an-external-database-with-pgadmin-iii)
+* [Full text search in miliseconds](https://blog.lateral.io/2015/05/full-text-search-in-milliseconds-with-postgresql/)
 
 ## SQLite
 
