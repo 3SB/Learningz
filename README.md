@@ -258,6 +258,7 @@ Table of Contents
 * [Parameter operations in Bash](http://mywiki.wooledge.org/BashSheet#Parameter_Operations)
 * [Stop using `tail -f`](http://www.brianstorti.com/stop-using-tail/)
 * [Why GNU Grep is fast](https://lists.freebsd.org/pipermail/freebsd-current/2010-August/019310.html)
+* [Ignore directories in `find`](http://stackoverflow.com/questions/4210042/exclude-directory-from-find-command)
 
 ## Java
 
