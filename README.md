@@ -453,6 +453,7 @@ Table of Contents
 * [Iterate over the `kv`'s in a map](http://stackoverflow.com/questions/6685916/how-to-iterate-over-map-keys-and-values)
 * [Configuration files in Clojure](http://stackoverflow.com/questions/7777882/loading-configuration-file-in-clojure-as-data-structure)
 * [A simple bot based on Markov chains in Clojure](http://howistart.org/posts/clojure/1/)
+* [Components - Structuring your Clojure app](https://www.youtube.com/watch?v=13cmHf_kt-Q)
 
 ### Clojure-CLR
 
