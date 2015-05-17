@@ -203,6 +203,7 @@ Table of Contents
 * [Search for mails with a given `TO` address](http://stackoverflow.com/questions/10563218/python-imap-search-from-or-to-designated-email-address)
 * [Nifty python tricks](https://freepythontips.wordpress.com/2015/04/19/nifty-python-tricks/)
 * [Extract PDF text](https://automatetheboringstuff.com/chapter13/)
+* [Introduction to twisted](http://krondo.com/?page_id=1327)
 
 ### Reflection
 
