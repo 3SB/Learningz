@@ -148,6 +148,7 @@ Table of Contents
 * [Bloom Filters](http://maciejczyzewski.me/2014/10/18/bloom-filters-fast-and-simple.html)
 * [Cuckoo Hashing](http://en.wikipedia.org/wiki/Cuckoo_hashing)
 * [Consistent Hashing](https://web.archive.org/web/20111102214024/http://weblogs.java.net/blog/tomwhite/archive/2007/11/consistent_hash.html)
+* [P vs NP and the computational zoo](https://www.youtube.com/watch?v=YX40hbAHx3s)
 
 ## Signals
 
