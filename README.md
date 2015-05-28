@@ -292,6 +292,8 @@ Table of Contents
 * [`IEnumerable` vs `ICollection` vs `IList`](http://www.c-sharpcorner.com/UploadFile/78607b/difference-between-ienumerable-icollection-and-ilist-interf/)
 * [Difference between .NET framework 4 Client profile and .NET framework 4 Full ](http://blogs.msdn.com/b/jgoldb/archive/2010/04/12/what-s-new-in-net-framework-4-client-profile-rtm.aspx)
 * [Moving towards .NET framework 4 Client Profile](http://www.hanselman.com/blog/TowardsASmallerNET4DetailsOnTheClientProfileAndDownloadingNET.aspx)
+* [Linq select a named type](http://blogs.msdn.com/b/swiss_dpe_team/archive/2008/01/25/using-your-own-defined-type-in-a-linq-query-expression.aspx)
+* [Cast IQueryable (anonymous) to IQueryable<T>](http://stackoverflow.com/questions/16734320/how-to-cast-an-anonymous-type-to-iqueryableorder-detail-in-c)
 
 ### Mono .NET
 
