@@ -317,6 +317,7 @@ Table of Contents
 * [Git for intermediate users](https://www.andyjeffries.co.uk/25-tips-for-intermediate-git-users/) 
 * [Most common pitfalls and their solutions](http://41j.com/blog/2015/02/common-git-screwupsquestions-solutions/)
 * [Git from the inside out](https://codewords.recurse.com/issues/two/git-from-the-inside-out)
+* [Git operations & states](https://commons.wikimedia.org/wiki/File:Git_operations.svg)
  
 ### SVN migration to Git
 
