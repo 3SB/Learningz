@@ -432,6 +432,7 @@ Table of Contents
 
 * [The value of values - Rich Hickey](https://www.youtube.com/watch?v=-6BsiVyC1kM)
 * [Bitbucket's internals](https://www.youtube.com/watch?v=2ll2ER3wpus)
+* [DNS Internals (cat-dns)](https://www.youtube.com/watch?v=qDPhW9P44fI)
 
 ## RFCs 
 
