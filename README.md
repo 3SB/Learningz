@@ -25,6 +25,7 @@ Table of Contents
 * [SSH](#ssh)
 * [Design Patterns](#design-patterns)
 * [Data Structures](#data-structures)
+* [C](#c)
 * [Python](#python)
   * [Reflection](#reflection)
   * [Python and Windows](#python-and-windows)
