@@ -406,6 +406,10 @@ Table of Contents
 
 ## Resources
 
+### APIs
+
+* [Words api. 25000 Requests/day free](https://www.wordsapi.com/)
+
 ### Python
 
 * [Cleansing data on web pages](https://github.com/grangier/python-goose)
