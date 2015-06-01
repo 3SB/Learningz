@@ -173,6 +173,10 @@ Table of Contents
 
 * [Data Structures and algos in Kernel](http://cstheory.stackexchange.com/questions/19759/core-algorithms-deployed/19773#19773)
  
+## C
+
+* [C for high level programmers](http://charliethe.ninja/slideshow/introtoc.html#1)
+
 ## Python
 
 * [Getting starting with flask-login](https://gist.github.com/shrayas/10004888)
