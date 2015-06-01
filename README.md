@@ -57,6 +57,7 @@ Table of Contents
 * [Ansible](#ansible)
 * [Linux](#linux)
 * [Resources](#resources)
+  * [APIs](#apis) 
   * [Python](#python-1)
   * [Data](#data)
   * [Course material](#course-material)
