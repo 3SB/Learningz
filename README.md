@@ -359,6 +359,7 @@ Table of Contents
 * [Learning Vimscript the hard way](http://learnvimscriptthehardway.stevelosh.com/)
 * [Spell checking in vim](http://robots.thoughtbot.com/vim-spell-checking)
 * [Sharpening the VIM saw](http://vimcasts.org/blog/2012/08/on-sharpening-the-saw/)
+* [Boosting VIM productivity](http://sheerun.net/2014/03/21/how-to-boost-your-vim-productivity)
 
 ## Emacs
 * [Emacs installed via brew and M-X Cider-jack-in problem](http://clojure-doc.org/articles/tutorials/emacs.html)
