@@ -99,6 +99,7 @@ Table of Contents
 * [Punctuation tips](https://medium.com/@wwnorton/punctuation-tips-a5e0d4a5e990)
 * [Quickie cycle wash](http://blog.bumsonthesaddle.com/2015/03/14/how-to-the-quickie-bike-wash/)
 * [Folding clothes](https://www.youtube.com/watch?feature=player_embedded&v=Ark90G_aWLM)
+* [Tips for running a marathon](http://community.runnersworld.com/topic/tips-for-first-marathon?reply=110515291975610934#110515291975610934)
 
 ## Math
 
