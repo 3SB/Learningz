@@ -301,6 +301,7 @@ Table of Contents
 * [Moving towards .NET framework 4 Client Profile](http://www.hanselman.com/blog/TowardsASmallerNET4DetailsOnTheClientProfileAndDownloadingNET.aspx)
 * [Linq select a named type](http://blogs.msdn.com/b/swiss_dpe_team/archive/2008/01/25/using-your-own-defined-type-in-a-linq-query-expression.aspx)
 * [Cast IQueryable (anonymous) to IQueryable<T>](http://stackoverflow.com/questions/16734320/how-to-cast-an-anonymous-type-to-iqueryableorder-detail-in-c)
+* [IEnumerable is Lazy](http://brianreiter.org/2011/01/14/ienumerable-is-lazy-and-thats-cool/)
 
 ### Mono .NET
 
