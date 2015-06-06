@@ -12,6 +12,7 @@ Table of Contents
 * [Math](#math)
 * [CS basics](#cs-basics)
 * [Databases](#databases)
+* [Research Papers](#research-papers)
 * [DevOps](#devops)
 * [Virtual Box](#virtual-box)
 * [OSX](#osx)
@@ -112,6 +113,10 @@ Table of Contents
 ## Databases
 
 * [Tiny into to db systems](http://blog.dancrisan.com/a-tiny-intro-to-database-systems)
+
+## Research Papers
+
+* [How to read a paper](http://www.cs.jhu.edu/~jason/advice/how-to-read-a-paper.html)
 
 ## DevOps
 * [What does StackExchange run?](http://meta.stackexchange.com/a/10370)
