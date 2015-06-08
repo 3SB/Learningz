@@ -323,6 +323,7 @@ Table of Contents
 
 * [Quick Introduction to svn](https://code.google.com/p/westmont-risk/wiki/SvnTutorial)
 * [SVN Book](http://svnbook.red-bean.com/en/1.7/svn-book.html)
+* [Editing a commit message](http://stackoverflow.com/questions/304383/how-do-i-edit-a-log-message-that-i-already-committed-in-subversion)
 
 ## Git
 
