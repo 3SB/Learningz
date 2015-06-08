@@ -113,6 +113,7 @@ Table of Contents
 ## Databases
 
 * [Tiny into to db systems](http://blog.dancrisan.com/a-tiny-intro-to-database-systems)
+* [BASE - An alternative to ACID](http://queue.acm.org/detail.cfm?id=1394128)
 
 ## Research Papers
 
