@@ -310,6 +310,7 @@ Table of Contents
 * [IEnumerable is Lazy](http://brianreiter.org/2011/01/14/ienumerable-is-lazy-and-thats-cool/)
 * [LINQ Deferred execution](http://blogs.msdn.com/b/charlie/archive/2007/12/09/deferred-execution.aspx)
 * [Create a Language compiler for the .NET framework](https://msdn.microsoft.com/en-us/magazine/cc136756.aspx)
+* [IEnumerable with yield explanation](https://web.archive.org/web/20150416061112/http://coding.abel.nu/2011/12/return-ienumerable-with-yield-return/)
 
 ### Mono .NET
 
