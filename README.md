@@ -311,6 +311,7 @@ Table of Contents
 * [LINQ Deferred execution](http://blogs.msdn.com/b/charlie/archive/2007/12/09/deferred-execution.aspx)
 * [Create a Language compiler for the .NET framework](https://msdn.microsoft.com/en-us/magazine/cc136756.aspx)
 * [IEnumerable with yield explanation](https://web.archive.org/web/20150416061112/http://coding.abel.nu/2011/12/return-ienumerable-with-yield-return/)
+* [Constructor Initializer](http://stackoverflow.com/questions/10852905/use-of-colon-in-c-sharp-constructor-header)
 
 ### Mono .NET
 
