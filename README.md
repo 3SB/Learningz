@@ -5,6 +5,7 @@
 Table of Contents
 =================
 
+* [Good Reads](#good-reads)
 * [Best Practices](#best-practices)
 * [Interesting slide decks to learn from](#interesting-slide-decks-to-learn-from)
 * [Typography](#typography)
@@ -80,6 +81,10 @@ Table of Contents
   * [OfflineIMAP](#offlineimap)
 
 ---
+
+## Good Reads
+
+* [What Google gets wrong that amazon kills at](https://plus.google.com/+RipRowan/posts/eVeouesvaVX)
 
 ## Best Practices
 
