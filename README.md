@@ -126,6 +126,7 @@ Table of Contents
 
 ## DevOps
 * [What does StackExchange run?](http://meta.stackexchange.com/a/10370)
+* [Scaling Stack Overflow](https://speakerdeck.com/dfullerton/scaling-stack-overflow-qcon-nyc-2015)
 
 ## Virtual Box
 * [Manually mounting shared folders on a windows VM](https://www.virtualbox.org/manual/ch04.html#sf_mount_manual)
