@@ -86,6 +86,7 @@ Table of Contents
 
 * [What Google gets wrong that amazon kills at](https://plus.google.com/+RipRowan/posts/eVeouesvaVX)
 * [Worse is Better](http://www.jwz.org/doc/worse-is-better.html)
+* [What every programmer needs to know about game networking](http://gafferongames.com/networking-for-game-programmers/what-every-programmer-needs-to-know-about-game-networking)
 
 ## Best Practices
 
