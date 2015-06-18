@@ -98,6 +98,13 @@ Table of Contents
 * https://speakerdeck.com/62gerente/bash-introduction
 * https://speakerdeck.com/mitsuhiko/10-years-of-python-libraries
 
+## Talks
+
+* [The value of values - Rich Hickey](https://www.youtube.com/watch?v=-6BsiVyC1kM)
+* [Bitbucket's internals](https://www.youtube.com/watch?v=2ll2ER3wpus)
+* [DNS Internals (cat-dns)](https://www.youtube.com/watch?v=qDPhW9P44fI)
+* [Tracing an ActiveRecord query all the way to the DB](https://www.youtube.com/watch?v=rnLnRPZZ1Q4)
+
 ## Typography
 
 * [Anatomy of type](http://martinsilvertant.deviantart.com/art/Typography-Series-01-Anatomy-of-typography-329617642)
@@ -461,13 +468,6 @@ Table of Contents
 ### CSharp
 * [Simple REST and HTTP API Client for .NET](https://github.com/kato-im/RestSharp)
 * [Json to C# class converter](http://json2csharp.com/)
-
-## Talks
-
-* [The value of values - Rich Hickey](https://www.youtube.com/watch?v=-6BsiVyC1kM)
-* [Bitbucket's internals](https://www.youtube.com/watch?v=2ll2ER3wpus)
-* [DNS Internals (cat-dns)](https://www.youtube.com/watch?v=qDPhW9P44fI)
-* [Tracing an ActiveRecord query all the way to the DB](https://www.youtube.com/watch?v=rnLnRPZZ1Q4)
 
 ## RFCs 
 
