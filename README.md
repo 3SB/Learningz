@@ -329,6 +329,7 @@ Table of Contents
 * [IEnumerable with yield explanation](https://web.archive.org/web/20150416061112/http://coding.abel.nu/2011/12/return-ienumerable-with-yield-return/)
 * [Constructor Initializer](http://stackoverflow.com/questions/10852905/use-of-colon-in-c-sharp-constructor-header)
 * [Fluent Interfaces](http://www.primaryobjects.com/CMS/Article126)
+* [Good Intro to the `async` and `await` keywords](http://blog.stephencleary.com/2012/02/async-and-await.html)
 
 ### Mono .NET
 
