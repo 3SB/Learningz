@@ -234,6 +234,7 @@ Table of Contents
 * [Nifty python tricks](https://freepythontips.wordpress.com/2015/04/19/nifty-python-tricks/)
 * [Extract PDF text](https://automatetheboringstuff.com/chapter13/)
 * [Introduction to twisted](http://krondo.com/?page_id=1327)
+* [Fuzzy match in 10 lines of python](http://blog.amjith.com/fuzzyfinder-in-10-lines-of-python)
 
 ### Reflection
 
