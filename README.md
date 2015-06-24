@@ -108,6 +108,7 @@ Table of Contents
 * [DNS Internals (cat-dns)](https://www.youtube.com/watch?v=qDPhW9P44fI)
 * [Tracing an ActiveRecord query all the way to the DB](https://www.youtube.com/watch?v=rnLnRPZZ1Q4)
 * [Writing Asynchronous webapps in C# 5 and ASP MVC 4](https://channel9.msdn.com/Events/TechDays/Techdays-2012-the-Netherlands/2287)
+* [Learning from Haskell](https://vimeo.com/131409651)
 
 ## Typography
 
