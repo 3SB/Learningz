@@ -310,7 +310,7 @@ Table of Contents
 
 * [Getting started - A very simple guide](http://www.asp.net/mvc/overview/older-versions/getting-started-with-aspnet-mvc4/intro-to-aspnet-mvc-4)
 * [Pluralsight course on writing ASP MVC 4 applications](http://www.pluralsight.com/training/player?author=scott-allen&name=mvc4-building-m1-intro&mode=live&clip=0&course=mvc4-building)
-* [A simple `AccountController`](https://gist.github.com/shrayasr/9821d749cd9ac132deb3)
+* [A simple `AccountController`](https://gist.github.com/shrayasr/9821d749cd9ac132deb3) - [Blog](http://blog.falafel.com/dead-simple-aspnet-mvc-authentication/)
 
 ### CSharp
 
