@@ -13,6 +13,7 @@ Table of Contents
 * [Life](#life)
 * [Math](#math)
 * [CS basics](#cs-basics)
+* [Security](#security)
 * [Databases](#databases)
 * [Research Papers](#research-papers)
 * [DevOps](#devops)
@@ -125,6 +126,9 @@ Table of Contents
 
 ## CS basics
 * [What Every Programmer Should Know About Memory](https://people.freebsd.org/~lstewart/articles/cpumemory.pdf)
+
+## Security
+* [The definitive guide to form based authentication](http://stackoverflow.com/questions/549/the-definitive-guide-to-form-based-website-authentication)
 
 ## Databases
 
