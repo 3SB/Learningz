@@ -393,6 +393,7 @@ Table of Contents
 * [Spell checking in vim](http://robots.thoughtbot.com/vim-spell-checking)
 * [Sharpening the VIM saw](http://vimcasts.org/blog/2012/08/on-sharpening-the-saw/)
 * [Boosting VIM productivity](http://sheerun.net/2014/03/21/how-to-boost-your-vim-productivity)
+* [Switch to VIM for good](https://gist.github.com/bpierre/0a0025d348b6001394e0)
 
 ## Emacs
 * [Emacs installed via brew and M-X Cider-jack-in problem](http://clojure-doc.org/articles/tutorials/emacs.html)
