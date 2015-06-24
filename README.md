@@ -59,6 +59,7 @@ Table of Contents
 * [LaTeX](#latex)
 * [Postgres](#postgres)
 * [SQLite](#sqlite)
+* [Mongo DB](#mongodb)
 * [Bootstrap 3](#bootstrap-3)
 * [Ansible](#ansible)
 * [Linux](#linux)
@@ -240,6 +241,7 @@ Table of Contents
 * [Extract PDF text](https://automatetheboringstuff.com/chapter13/)
 * [Introduction to twisted](http://krondo.com/?page_id=1327)
 * [Fuzzy match in 10 lines of python](http://blog.amjith.com/fuzzyfinder-in-10-lines-of-python)
+* [Mongodb authentication python 2.7](http://api.mongodb.org/python/2.6.2/examples/authentication.html)
 
 ### Reflection
 
@@ -436,6 +438,10 @@ Table of Contents
 ## SQLite
 
 * [Good reasons to use SQLite](http://charlesleifer.com/blog/sqlite-small-fast-reliable-choose-any-three-/)
+
+## Mongo DB
+
+* [Creating a user](http://docs.mongodb.org/manual/tutorial/add-user-administrator/)
 
 ## Bootstrap 3
 
