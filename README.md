@@ -341,6 +341,8 @@ Table of Contents
 * [Constructor Initializer](http://stackoverflow.com/questions/10852905/use-of-colon-in-c-sharp-constructor-header)
 * [Fluent Interfaces](http://www.primaryobjects.com/CMS/Article126)
 * [Good Intro to the `async` and `await` keywords](http://blog.stephencleary.com/2012/02/async-and-await.html)
+* [Difference between `SortedList` and `SortedDictionary`](http://stackoverflow.com/questions/935621/whats-the-difference-between-sortedlist-and-sorteddictionary)
+* [When to **use** `SortedList` and `SortedDictionary`](http://stackoverflow.com/questions/1376965/when-to-use-a-sortedlisttkey-tvalue-over-a-sorteddictionarytkey-tvalue)
 
 ### Mono .NET
 
