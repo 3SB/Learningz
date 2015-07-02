@@ -131,6 +131,9 @@ Table of Contents
 
 ## Security
 * [The definitive guide to form based authentication](http://stackoverflow.com/questions/549/the-definitive-guide-to-form-based-website-authentication)
+* [Difference between SSL, TLS and HTTPS](http://security.stackexchange.com/questions/5126/whats-the-difference-between-ssl-tls-and-https)
+* [SSL vs TLS vs STARTTLS](https://www.fastmail.com/help/technical/ssltlsstarttls.html)
+* [Is STARTTLS insecure compared to SSL/TLS?](http://serverfault.com/questions/523804/is-starttls-more-safe-than-tls-ssl)
 
 ## Databases
 
