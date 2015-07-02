@@ -273,6 +273,7 @@ Table of Contents
 * [Jquery `.on` method not working with dynamically added elements](http://stackoverflow.com/questions/15090942/jquery-on-method-not-working-on-dynamic-content)
 * [Intro to Functional programming in JS](https://medium.com/functional-javascript/introduction-to-functional-javascript-45a9dca6c64a)
 * [What is a polyfill](https://remysharp.com/2010/10/08/what-is-a-polyfill)
+* [Passing the `this` scope to `forEach` using the `bind` method](http://stackoverflow.com/questions/19733758/passing-scope-to-foreach)
 
 ## CSS 
 
