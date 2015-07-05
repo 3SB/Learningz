@@ -246,6 +246,7 @@ Table of Contents
 * [Introduction to twisted](http://krondo.com/?page_id=1327)
 * [Fuzzy match in 10 lines of python](http://blog.amjith.com/fuzzyfinder-in-10-lines-of-python)
 * [Mongodb authentication python 2.7](http://api.mongodb.org/python/2.6.2/examples/authentication.html)
+* [Pandas pivot table](http://pbpython.com/pandas-pivot-table-explained.html)
 
 ### Reflection
 
