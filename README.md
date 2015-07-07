@@ -39,6 +39,7 @@ Table of Contents
 * [Google Maps](#google-maps)
 * [Photoshop](#photoshop)
 * [Shell](#shell)
+* [Android](#android)
 * [Java](#java)
 * [.NET](#net)
   * [ASP .NET MVC 4](#asp-net-mvc-4)
@@ -306,6 +307,10 @@ Table of Contents
 * [Stop using `tail -f`](http://www.brianstorti.com/stop-using-tail/)
 * [Why GNU Grep is fast](https://lists.freebsd.org/pipermail/freebsd-current/2010-August/019310.html)
 * [Ignore directories in `find`](http://stackoverflow.com/questions/4210042/exclude-directory-from-find-command)
+
+## Android
+
+* [Android studio crashes with a ` Failed to complete Gradle Execution`](https://code.google.com/p/android/issues/detail?id=67946#c1)
 
 ## Java
 
