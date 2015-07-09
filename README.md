@@ -79,6 +79,7 @@ Table of Contents
 * [Scheme](#scheme)
 * [Scala](#scala)
 * [F#](#f)
+* [Elixir](#elixir)
 * [Haskell](#haskell)
 * [Elastic Search](#elastic-search)
 * [IMAP](#imap)
@@ -558,6 +559,10 @@ Table of Contents
 * [Why you should learn F#](http://www.codemag.com/Article/1203081)
 * [Simple F# Open Source projects to get started](http://stackoverflow.com/questions/383848/f-open-source-projects)
 * [F# Workshop](http://www.fsharpworkshop.com/)
+
+## Elixir 
+
+* [Simple straightforward intro to Elixir](http://howistart.org/posts/elixir/1)
 
 ## Haskell
 
