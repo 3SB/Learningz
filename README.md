@@ -453,6 +453,7 @@ Table of Contents
 * [Full text search in miliseconds](https://blog.lateral.io/2015/05/full-text-search-in-milliseconds-with-postgresql/)
 * [Upgrading Postgres to newer versions](http://no0p.github.io/postgresql/2014/03/29/upgrading-pg-ubuntu.html)
 * [Can a single PostgreSQL query use multiple cores?](http://dba.stackexchange.com/a/55044)
+* [What can you do with JSON](http://clarkdave.net/2013/06/what-can-you-do-with-postgresql-and-json/)
 
 ## SQLite
 
