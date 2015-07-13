@@ -452,6 +452,7 @@ Table of Contents
 * [Enabling access via remote to all databases](http://dba.stackexchange.com/questions/48152/connecting-to-an-external-database-with-pgadmin-iii)
 * [Full text search in miliseconds](https://blog.lateral.io/2015/05/full-text-search-in-milliseconds-with-postgresql/)
 * [Upgrading Postgres to newer versions](http://no0p.github.io/postgresql/2014/03/29/upgrading-pg-ubuntu.html)
+* [Can a single PostgreSQL query use multiple cores?](http://dba.stackexchange.com/a/55044)
 
 ## SQLite
 
