@@ -171,6 +171,7 @@ Table of Contents
 * [Type inference vs Dynamic typing](http://herbsutter.com/2008/06/20/type-inference-vs-staticdynamic-typing/)
 * [Wonderful explanation of Y-combinator using JS](http://stackoverflow.com/a/6713431)
 * [Functional Programming with python](https://codewords.recurse.com/issues/one/an-introduction-to-functional-programming)
+* [Functional Programming with Javascript](https://github.com/DrBoolean/mostly-adequate-guide)
 
 ## Gmail
 
