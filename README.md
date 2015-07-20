@@ -534,6 +534,7 @@ Table of Contents
 * [Configuration files in Clojure](http://stackoverflow.com/questions/7777882/loading-configuration-file-in-clojure-as-data-structure)
 * [A simple bot based on Markov chains in Clojure](http://howistart.org/posts/clojure/1/)
 * [Components - Structuring your Clojure app](https://www.youtube.com/watch?v=13cmHf_kt-Q)
+* [Libs and namespaces in Clojure](https://blog.8thlight.com/colin-jones/2010/12/05/clojure-libs-and-namespaces-require-use-import-and-ns.html)
 
 ### Clojure-CLR
 
