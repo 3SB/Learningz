@@ -359,6 +359,7 @@ Table of Contents
 * [Difference between `SortedList` and `SortedDictionary`](http://stackoverflow.com/questions/935621/whats-the-difference-between-sortedlist-and-sorteddictionary)
 * [When to **use** `SortedList` and `SortedDictionary`](http://stackoverflow.com/questions/1376965/when-to-use-a-sortedlisttkey-tvalue-over-a-sorteddictionarytkey-tvalue)
 * [Hidden features of C#](http://stackoverflow.com/questions/9033/hidden-features-of-c)
+* [Learn Roslyn](https://joshvarty.wordpress.com/learn-roslyn-now/)
 
 ### Mono .NET
 
