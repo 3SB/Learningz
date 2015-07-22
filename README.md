@@ -361,6 +361,7 @@ Table of Contents
 * [Hidden features of C#](http://stackoverflow.com/questions/9033/hidden-features-of-c)
 * [Learn Roslyn](https://joshvarty.wordpress.com/learn-roslyn-now/)
 * [Destructors VS IDisposable](http://stackoverflow.com/questions/456213/destructor-vs-idisposable)
+* [Proper use of the IDisposable interface](http://stackoverflow.com/questions/538060/proper-use-of-the-idisposable-interface/538238#538238)
 
 ### Mono .NET
 
