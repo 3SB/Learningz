@@ -539,6 +539,7 @@ Table of Contents
 * [Components - Structuring your Clojure app](https://www.youtube.com/watch?v=13cmHf_kt-Q)
 * [Libs and namespaces in Clojure](https://blog.8thlight.com/colin-jones/2010/12/05/clojure-libs-and-namespaces-require-use-import-and-ns.html)
 * [Simple explanation of Clojure Protocols](http://stackoverflow.com/questions/4509782/simple-explanation-of-clojure-protocols/4513556#4513556)
+* [Connecting Clojure with MS SQLServer](http://www.markwoodhall.com/2015/02/12/using-a-clojure-repl-for-everyday-sql-tasks/)
 
 ### Clojure-CLR
 
