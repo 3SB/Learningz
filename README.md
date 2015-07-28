@@ -541,6 +541,7 @@ Table of Contents
 * [Simple explanation of Clojure Protocols](http://stackoverflow.com/questions/4509782/simple-explanation-of-clojure-protocols/4513556#4513556)
 * [Connecting Clojure with MS SQLServer](http://www.markwoodhall.com/2015/02/12/using-a-clojure-repl-for-everyday-sql-tasks/)
 * [Destructuring clojure data structures](http://blog.jayfields.com/2010/07/clojure-destructuring.html)
+* [Basic web dev in clojure](http://www.xuan-wu.com/2013-09-21-Basic-Web-Application-in-Clojure)
 
 ### Clojure-CLR
 
