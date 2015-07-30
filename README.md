@@ -543,6 +543,7 @@ Table of Contents
 * [Connecting Clojure with MS SQLServer](http://www.markwoodhall.com/2015/02/12/using-a-clojure-repl-for-everyday-sql-tasks/)
 * [Destructuring clojure data structures](http://blog.jayfields.com/2010/07/clojure-destructuring.html)
 * [Basic web dev in clojure](http://www.xuan-wu.com/2013-09-21-Basic-Web-Application-in-Clojure)
+* [Simple authentication wth the buddy library](https://github.com/funcool/buddy-auth/tree/master/examples/session)
 
 ### Clojure-CLR
 
