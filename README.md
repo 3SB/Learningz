@@ -473,6 +473,7 @@ Table of Contents
 
 * [Visual explanation of grid system](http://www.helloerik.com/the-subtle-magic-behind-why-the-bootstrap-3-grid-works)
 * [Collapsible panel](http://jsbin.com/xuragejoho/1/edit?html,output)
+* [Fix for firefox `<input type=file`](http://stackoverflow.com/questions/22049739/fix-for-firefox-file-input-using-bootstrap-3-1)
 
 ## Ansible
 
