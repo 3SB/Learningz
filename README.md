@@ -449,6 +449,7 @@ Table of Contents
 
 ## Postgres
 
+* [Postgres Guide](http://www.postgresguide.com/)
 * [Using Dict cursors in psycopg2](http://initd.org/psycopg/docs/extras.html#dictionary-like-cursor)
 * [Using `COPY`](http://stackoverflow.com/questions/2987433/how-to-import-csv-file-data-into-a-postgres-table)
 * [Using `COPY` with auto increment fields](http://stackoverflow.com/questions/7920777/postgresql-copy-command-generate-primary-key-id)
