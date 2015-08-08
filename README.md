@@ -404,6 +404,10 @@ Table of Contents
 * [Git-scm guide](http://git-scm.com/book/en/v2/Git-on-the-Server-Setting-Up-the-Server)
 * [Digital ocean guide](https://www.digitalocean.com/community/tutorials/how-to-set-up-a-private-git-server-on-a-vps)
 
+### Gitlab-CE
+
+* [Importing bare repositories](https://gitlab.com/gitlab-org/gitlab-ce/blob/master/doc/raketasks/import.md)
+
 ## Networking concepts
 
 * [DNS Resolution](http://blog.taos.com/2013/11/19/dns-resolution-a-primer/)
