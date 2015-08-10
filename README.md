@@ -287,6 +287,7 @@ Table of Contents
 ## CSS 
 
 * [Trello's CSS guide](https://gist.github.com/shrayasr/f35be977cbb274baed11)
+* [`min-height` doesn't work when `display` is set to `table`](http://stackoverflow.com/questions/7790222/css-display-table-min-height-not-working)
 
 ## Google Maps
 
