@@ -551,6 +551,8 @@ Table of Contents
 * [Destructuring clojure data structures](http://blog.jayfields.com/2010/07/clojure-destructuring.html)
 * [Basic web dev in clojure](http://www.xuan-wu.com/2013-09-21-Basic-Web-Application-in-Clojure)
 * [Simple authentication wth the buddy library](https://github.com/funcool/buddy-auth/tree/master/examples/session)
+* [File to byte array](http://stackoverflow.com/questions/23018870/how-to-read-a-whole-binary-file-nippy-into-byte-array-in-clojure)
+
 
 ### Clojure-CLR
 
