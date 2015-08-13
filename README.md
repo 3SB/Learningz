@@ -283,6 +283,7 @@ Table of Contents
 * [What is a polyfill](https://remysharp.com/2010/10/08/what-is-a-polyfill)
 * [Passing the `this` scope to `forEach` using the `bind` method](http://stackoverflow.com/questions/19733758/passing-scope-to-foreach)
 * [Good intro to ES6](http://rauchg.com/2015/ecmascript-6/)
+* [JQuery Deferred, promise walkthrough](http://joseoncode.com/2011/09/26/a-walkthrough-jquery-deferred-and-promise/)
 
 ## CSS 
 
