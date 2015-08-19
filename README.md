@@ -13,6 +13,7 @@ Table of Contents
 * [Life](#life)
 * [Math](#math)
 * [CS basics](#cs-basics)
+* [HTTP](#http)
 * [Security](#security)
 * [Databases](#databases)
 * [Research Papers](#research-papers)
@@ -130,6 +131,9 @@ Table of Contents
 
 ## CS basics
 * [What Every Programmer Should Know About Memory](https://people.freebsd.org/~lstewart/articles/cpumemory.pdf)
+
+## HTTP
+* [Quick reference to HTTP headers](http://www.cs.tut.fi/~jkorpela/http.html)
 
 ## Security
 * [The definitive guide to form based authentication](http://stackoverflow.com/questions/549/the-definitive-guide-to-form-based-website-authentication)
