@@ -562,6 +562,12 @@ Table of Contents
 * [File to byte array](http://stackoverflow.com/questions/23018870/how-to-read-a-whole-binary-file-nippy-into-byte-array-in-clojure)
 * [Base64 Array to String](http://angeleah.com/blog/2012/12/06/base64-encoding-with-clojure.html)
 
+### Clojure Deployment
+
+* [Getting clojure into a jar](http://darrennewton.com/2015/03/08/sour-mash-getting-your-clojure-into-a-jar/)
+* [TLDR here for `-main` class ](http://adambard.com/blog/Getting-started-with-Clojure-web-apps/)
+* [Deploying clojure apps on a vps](http://adambard.com/blog/deploying-a-clojure-web-app-on-digitalocean/)
+
 ### Clojure-CLR
 
 * [Good Repo on clojure CLR stuff](https://github.com/rippinrobr/clojure-clr-intro) and accompanying [website](http://www.myclojureadventure.com/)
