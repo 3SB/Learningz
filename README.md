@@ -561,6 +561,7 @@ Table of Contents
 * [Simple authentication wth the buddy library](https://github.com/funcool/buddy-auth/tree/master/examples/session)
 * [File to byte array](http://stackoverflow.com/questions/23018870/how-to-read-a-whole-binary-file-nippy-into-byte-array-in-clojure)
 * [Base64 Array to String](http://angeleah.com/blog/2012/12/06/base64-encoding-with-clojure.html)
+* [Collections and Sequences](http://www.brainonfire.net/files/seqs-and-colls/main.html)
 
 ### Clojure Deployment
 
