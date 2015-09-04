@@ -372,6 +372,7 @@ Table of Contents
 * [Destructors VS IDisposable](http://stackoverflow.com/questions/456213/destructor-vs-idisposable)
 * [Proper use of the IDisposable interface](http://stackoverflow.com/questions/538060/proper-use-of-the-idisposable-interface/538238#538238)
 * [Sort of monads in C#](https://gist.github.com/dvdsgl/669d38dd067f799473fa)
+* [Implementing and using IDisposable](http://gregbee.ch/blog/implementing-and-using-the-idisposable-interface)
 
 ### Mono .NET
 
