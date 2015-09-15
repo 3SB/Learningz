@@ -64,6 +64,7 @@ Table of Contents
 * [Mongo DB](#mongodb)
 * [Bootstrap 3](#bootstrap-3)
 * [Ansible](#ansible)
+* [Windows](#windows)
 * [Linux](#linux)
 * [Resources](#resources)
   * [APIs](#apis) 
@@ -497,6 +498,10 @@ Table of Contents
 ## Ansible
 
 * [Starter guide, kind of zero to hero guide](https://serversforhackers.com/editions/2014/08/26/getting-started-with-ansible/)
+
+## Windows
+
+* [Enabling .Net 3.5 on Windows server 2012 R2](http://community.bamboosolutions.com/blogs/bambooteamblog/archive/2013/02/08/how-to-enable-and-use-net-framework-3-5-and-4-5-in-windows-server-2012.aspx)
 
 ## Linux
 
