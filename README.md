@@ -288,6 +288,8 @@ Table of Contents
 * [Passing the `this` scope to `forEach` using the `bind` method](http://stackoverflow.com/questions/19733758/passing-scope-to-foreach)
 * [Good intro to ES6](http://rauchg.com/2015/ecmascript-6/)
 * [JQuery Deferred, promise walkthrough](http://joseoncode.com/2011/09/26/a-walkthrough-jquery-deferred-and-promise/)
+* [Closures are not complicated](http://blog.niftysnippets.org/2008/02/closures-are-not-complicated.html)
+* [Closures by example](http://blog.niftysnippets.org/2008/03/closures-by-example.html)
 
 ## CSS 
 
