@@ -86,6 +86,7 @@ Table of Contents
 * [Elastic Search](#elastic-search)
 * [IMAP](#imap)
   * [OfflineIMAP](#offlineimap)
+* [Visualization](#visualization)
 
 ---
 
@@ -632,6 +633,10 @@ Table of Contents
 * [Selective syncing](http://docs.offlineimap.org/en/latest/nametrans.html)
 * [SSL shiz on OSX](http://www.reddit.com/r/emacs/comments/2va23g/mu4e_issues_offlineimap_sync_not_working/)
 * [`--dry-run` throwing unwanted errors](https://github.com/OfflineIMAP/offlineimap/issues/52)
+
+## Visualization
+
+* [Guide to design visualizations for data](https://infoactive.co/data-design/titlepage01.html)
 
 ---
 
