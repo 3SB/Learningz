@@ -297,6 +297,7 @@ Table of Contents
 ### AngularJS
 
 * [The hitchhikers guide to angular directives](https://amitgharat.wordpress.com/2013/06/08/the-hitchhikers-guide-to-the-directive/)
+* [Nitty gritties of compile and link functions](http://www.jvandemo.com/the-nitty-gritty-of-compile-and-link-functions-inside-angularjs-directives/)
 
 ## CSS 
 
