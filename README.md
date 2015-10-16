@@ -36,6 +36,7 @@ Table of Contents
   * [Python and Windows](#python-and-windows)
   * [IPython](#ipython)
 * [Javascript](#javascript)
+  * [AngularJS](#angularjs)
 * [CSS](#css)
 * [Google Maps](#google-maps)
 * [Photoshop](#photoshop)
@@ -292,6 +293,10 @@ Table of Contents
 * [JQuery Deferred, promise walkthrough](http://joseoncode.com/2011/09/26/a-walkthrough-jquery-deferred-and-promise/)
 * [Closures are not complicated](http://blog.niftysnippets.org/2008/02/closures-are-not-complicated.html)
 * [Closures by example](http://blog.niftysnippets.org/2008/03/closures-by-example.html)
+
+### AngularJS
+
+* [The hitchhikers guide to angular directives](https://amitgharat.wordpress.com/2013/06/08/the-hitchhikers-guide-to-the-directive/)
 
 ## CSS 
 
