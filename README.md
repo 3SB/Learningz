@@ -354,6 +354,7 @@ Table of Contents
 * [Unrecognized attribute `targetframework`](http://stackoverflow.com/questions/7530725/unrecognized-attribute-targetframework-note-that-attribute-names-are-case-sen)
 * [MVC5 attribute routing](http://www.davidhayden.me/blog/asp-net-mvc-5-attribute-routing)
 * [Attribute routing vs Conventional routing](http://www.exceptionnotfound.net/attribute-routing-vs-convention-routing/)
+* [ASP .NET Application lifecycle](https://msdn.microsoft.com/en-us/library/bb470252.aspx#Overview)
 
 ### CSharp
 
