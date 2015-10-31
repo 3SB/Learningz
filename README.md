@@ -386,6 +386,7 @@ Table of Contents
 * [Proper use of the IDisposable interface](http://stackoverflow.com/questions/538060/proper-use-of-the-idisposable-interface/538238#538238)
 * [Sort of monads in C#](https://gist.github.com/dvdsgl/669d38dd067f799473fa)
 * [Implementing and using IDisposable](http://gregbee.ch/blog/implementing-and-using-the-idisposable-interface)
+* [Why no `var` on fields](http://blogs.msdn.com/b/ericlippert/archive/2009/01/26/why-no-var-on-fields.aspx)
 
 ### Mono .NET
 
