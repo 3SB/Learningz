@@ -63,6 +63,7 @@ Table of Contents
 * [Postgres](#postgres)
 * [SQLite](#sqlite)
 * [Mongo DB](#mongodb)
+* [MSSQL Server](#mssql-server)
 * [Bootstrap 3](#bootstrap-3)
 * [Ansible](#ansible)
 * [Windows](#windows)
@@ -497,6 +498,11 @@ Table of Contents
 ## Mongo DB
 
 * [Creating a user](http://docs.mongodb.org/manual/tutorial/add-user-administrator/)
+
+## MSSQL Server
+
+* [Silent installation of SQL Server 2008 R2 - 1](https://blogesh.wordpress.com/2008/09/23/silent-install-of-sql-server-2008/)
+* [Silent installation of SQL Server 2008 R2 - 2](http://mssqltrek.com/2011/08/23/installing-sql-server-from-command-linecmd/)
 
 ## Bootstrap 3
 
