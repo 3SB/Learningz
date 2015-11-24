@@ -443,6 +443,7 @@ Table of Contents
 
 * [Aggregate functions and using them the right way](http://www.looker.com/news/blog/aggregate-functions-gone-bad-and-joins-who-made-them-way)
 * Pictorial representation of joins: [1](http://blog.codinghorror.com/a-visual-explanation-of-sql-joins/) and [2](http://www.codeproject.com/Articles/33052/Visual-Representation-of-SQL-Joins)
+* [Why Keyset pagination is better than offset pagination](http://use-the-index-luke.com/no-offset)
  
 ## VIM
 
