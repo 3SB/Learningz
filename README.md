@@ -395,6 +395,7 @@ Table of Contents
 * [ASP MVC 5 doesn't work when adding parameters to action](http://stackoverflow.com/questions/21827225/xamarin-asp-mvc-4-action-with-parameters-not-working)
 * [Downgrading to ASP MVC 4 from 4](http://curtis.schlak.com/2013/09/29/setup-asp-net-mvc-4-on-monodevelop.html)
 * [Installing specific version of package in Xamarin and MonoDevelop](http://stackoverflow.com/questions/20802905/is-there-a-package-manager-console-in-xamarin-studio)
+* [Mono's `getline` utility for writing `readline` type apps in C#](https://github.com/mono/mono/blob/master/mcs/tools/csharp/getline.cs)
 
 ## Makefiles
 
