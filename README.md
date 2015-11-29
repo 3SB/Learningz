@@ -389,6 +389,8 @@ Table of Contents
 * [Implementing and using IDisposable](http://gregbee.ch/blog/implementing-and-using-the-idisposable-interface)
 * [Why no `var` on fields](http://blogs.msdn.com/b/ericlippert/archive/2009/01/26/why-no-var-on-fields.aspx)
 * [Best practices when using `async` and `await`](https://msdn.microsoft.com/en-us/magazine/jj991977.aspx)
+* [`async` and `await` cheatsheet](http://daytodata.blogspot.in/2015/11/c-async-await-cheatsheet.html)
+
 
 ### Mono .NET
 
