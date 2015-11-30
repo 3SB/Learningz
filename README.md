@@ -259,6 +259,8 @@ Table of Contents
 * [Mongodb authentication python 2.7](http://api.mongodb.org/python/2.6.2/examples/authentication.html)
 * [Pandas pivot table](http://pbpython.com/pandas-pivot-table-explained.html)
 * [Variable scope in list comprehensions in Python 2](http://www.librador.com/2014/07/10/Variable-scope-in-list-comprehension-vs-generator-expression/)
+* [6 libs for every py-er](http://www.infoworld.com/article/3008915/application-development/6-python-libraries-every-programmer-will-love.html)
+
 
 ### Reflection
 
