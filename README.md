@@ -646,6 +646,9 @@ Table of Contents
 ## IMAP
 
 * [GMail IMAP Extensions](https://developers.google.com/gmail/imap_extensions)
+* [IMAP search parens](http://www.limilabs.com/blog/imap-search-requires-parentheses)
+* [Searching with gmail search syntax](http://www.limilabs.com/blog/search-gmail-using-gmails-search-syntax)
+* [RFC882 date and time spec](https://tools.ietf.org/html/rfc822#section-5)
 
 ### OfflineIMAP
 
